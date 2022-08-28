@@ -1,0 +1,357 @@
+## intent: disposable_card_limits- Do the disposable cards have any restrictions on them?
+- How many times can I use a virtual card?
+- A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?
+- Can I have more disposable cards?
+- i tried using a virtual card for a hotel but it didn't work, why not
+- What are the guidelines for the disposable cards?
+- Do the disposable cards have a transaction limit?
+- Can you give me the restrictions of the disposable cards?
+- Is there a limit on the number of times I can use a disposable card?
+- How many disposable cards am I allowed to have?
+- What are the restrictions of the disposable cards?
+- What is the most amount of disposable cards allowable?
+- Can I get a disposable card?  How many can I have?  How often can I use them?
+- What number of transactions can i do with one disposable card?
+- Whats the maximum disposable virtual cards?
+- How limited is a virtual card?
+- What are the disposable cards restrictions?
+- I need multiple cards per day, and they all have to be disposable.
+- Is there a limit to the number of disposable cards I can have?
+- Can I have more than 2 disposable cards?
+- What sort of restrictions are there for the disposable cards?
+- What is the limit on disposable cards?
+- Help me create several temp cards every day.
+- Are there any limits to using disposable virtual cards?
+- Are there a certain amount of transactions i can do with one disposable card?
+- What are the limitations on the disposable cards?
+- I have a disposable card, how many transactions can I make?
+- What are the policies of disposable cards?
+- Is there a limit on how many times I can use a disposable card?
+- I need to make several disposable cards per day.
+- What is the number of transactions I get with a disposable card?
+- How many disposable virtual cards can you have?
+- Can you tell me the restrictions for the disposable cards?
+- How can many disposable cards can I have per day?
+- Could you tell me about the restrictions that are on the disposable cards?
+- Do the disposable cards have any restrictions?
+- I need several cards per day. And I need to be able to throw away all of the cards I make.
+- How many times can I use my disposable card?
+- With one disposable card how many transactions can i do?
+- Is there any limits I should know about if I'm going to use a disposable virtual card?
+- I need a number of disposable cards everyday.
+- Are there restrictions on disposable virtual cards?
+- Please provide me with the restrictions of the disposable cards.
+- I have to make several disposable cards per day.
+- Am I limited on the amount of disposable cards I can possess?
+- how many uses are the disposable cards good for?
+- Whats the maximum number of disposable cards that I can get?
+- What are some of the restrictions that the disposable cards have?
+- What are the restrictions on the virtual cards?
+- How many purchases can I make with one disposable card?
+- Is it possible to have more than one disposable card?
+- Can i make several disposable cardsper day?
+- What is limit of disposable cards  I can make per day?
+- What are the details of disposable card limitations?
+- I need to make multiple disposable cards in a day.
+- How many transactions can I do with my disposable card?
+- Show me the amount of transactions I can do with a disposable card.
+- What is the maximum transactions I can use on a disposable card?
+- Are there any limits if I use these virtual cards?
+- Are there any restrictions for the disposable cards that I need to be aware of?
+- Where can I find a list of descriptions the disposable cards have?
+- What limits are there on the virtual cards?
+- What is the max amount of disposable cards I'm allowed.
+- What stipulations do disposable cards entail?
+- How many disposable cards per person?
+- Is there a limit to a disposable virtual card?
+- Why can't I use a disposable card?
+- How many transactions can I make on my disposable card?
+- What's the limit for disposable virtual cards?
+- How many active transactions can I make with a disposable card?
+- Please specify any limitations that come along with disposable cards.
+- Are there downsides to using a disposable virtual cards?
+- how many transactions can go on a disposable card?
+- Is there a transaction limit for a disposable card?
+- I need more than one disposable card
+- What is the maximum number of transactions that I can put on a disposable card?
+- I am required to make several disposable cards every day.
+- I must make several disposable cards every day.
+- Where can I use a disposable card?
+- Are there limits on the virtual cards?
+- How many disposable cards can you own?
+- Can you tell me more about limits to disposable virtual cards?
+- How many transactions can I do with a disposable card?
+- How many payments can I make using a virtual card?
+- What is the maximum number of transactions I can do with a disposable card?
+- Can you tell me if there are limits to disposable virtual cards?
+- What are the rules for using disposable virtual cards?
+- What are the disposable virtual card limits?
+- How many disposable cards can I have at one time?
+- How many transactions can be made with a disposable card?
+- i am not a premium customer but i want a virtual card, how do i get it
+- I need several disposable cards made per day.
+- What is the maximum transactions for one disposable card?
+- For the disposable cards, what are the restrictions?
+- Are there any restrictions for the disposable cards?
+- Is there a limit on making disposable cards?
+- Do the disposable cards have restrictions?
+- Can I do more than 10 transactions with a disposable card?
+- What are the disposable card limits?
+- Is there a limit to using a disposable virtual card?
+- I have a disposable virtual card. Is there a limit to how many times I can use it?
+- Are there any places that I can't use the disposable cards at?
+- Is there a limit to the number of disposable cards per day?
+- How many disposable cards can I make in a day?
+- let me know how many disposable cards I can have?
+- I must make several disposable cards per day.
+- Can you please inform me of the restrictions for the disposable cards.
+- Is there a limit on disposable cards?
+- I have to make more then a few disposable cards per day.
+- Are there any restrictions on the disposable cards?
+- What are my limits on disposable cards?
+- I would like to know what the restrictions are for the disposable cards.
+- What is the limits on the number of disposable cards I can have?
+- what is the amount of disposable cards I can have?
+- On my disposable card, is there a transaction limit?
+- Who can request disposable cards?
+- How much transactions do I get with a disposable card?
+- What can I and can't do with the disposable cards?
+- Is there a transaction limit on a disposable card?
+- How many disposable  cards are available per account?
+- What is the number of transactions for one disposable card?
+## intent: get_disposable_virtual_card- What do you use disposable cards on?
+- How do I get a disposable virtual card as well?
+- I want a disposable virtual card, how do I do that?
+- What are the disposable cards for?
+- I need a disposable virtual card. Please tell me how to order one.
+- What systems do you have in place for my security when using my card for everyday purchases?
+- Why use a disposable card?
+- How can I get disposable virtual cards?
+- Can you tell me about these disposable virtual cards?
+- Do you offer disposable virtual cards too?
+- can i get a virtual card online
+- How do I request a disposable virtual card?
+- How can I create a disposable virtual card?
+- When will you be taking orders for disposable virtual cards?
+- Who can purchase a disposable virtual card?
+- How does a disposable virtual card work?
+- What is the function of the disposable cards?
+- Do I need a disposable card?
+- Is there a disposable virtual card?
+- Please tell me how disposable virtual cards work?
+- how do I get a disposable virtual card?
+- Can you please explain disposable virtual cards for me?
+- How do I create a disposable virtual card?
+- Why would I need a disposable card?
+- What are the disposable cards used for?
+- What are these disposable virtual cards all about?
+- What is the process to create a disposable virtual card?
+- Will you tell me how I am supposed to use the disposable cards?
+- How about disposable virtual cards?
+- Please send me a disposable virtual card.
+- I want to make an online purchase but I don't want to use my credit card. Can you tell me how a disposable virtual card works and where I can apply for one?
+- What can I do with a disposable virtual card?
+- Do you have the option for a disposable virtual card?
+- What are disposable virtual cards?
+- I want a virtual card that is disposable
+- I would like a disposable virtual card, could I get one?
+- Please can i get a disposable virtual card as well?
+- disposable virtual card can be ordered where?
+- Where do I get a disposable card
+- In what way can I use the disposable cards?
+- How can I go about getting a disposable virtual card?
+- how do the cards work?
+- I need to get a disposable virtual card?
+- How can I get a disposable virtual card?
+- Can I get a disposable virtual card?
+- How can disposable cards be used?
+- Please explain how I use the disposable cards?
+- Can you tell me more info about virtual disposable cards?
+- I need a disposable virtual card.
+- Can you point me in the right direction of where to go to roder a disposable virtual card, I can't seem to find it.
+- What is the procedure for depositing a virtual card
+- can i get a virtual card
+- I would like to know more about what a disposable virtual card is?
+- Are there any disposable virtual cards?
+- Please tell me about disposable cards.
+- How would I use a disposable card?
+- How do I order a disposable virtual card?
+- Where do I order a disposable virtual card?
+- Can you provide me a disposable virtual card?
+- The disposable cards, what are they for?
+- Can you help me get a disposable virtual card?
+- Can I order a disposable virtual card?
+- Are there virtual disposable cards?
+- Is it possible to get a disposable virtual card as well?
+- Can you tell me what are disposable cards for?
+- Can I use a disposable virtual card for any purchase?
+- What can you use the disposable cards for?
+- Where do I get a disposable virtual card?
+- How do I use disposable cards?
+- Can you tell me what the disposable cards are used for?
+- Is there a way to use this app with a disposable virtual card?
+- What are the uses for disposable cards?
+- Tell me more about getting a virtual disposable card.
+- How can I get a virtual card for a one-time transaction?
+- Can you tell me where I can order a disposable virtual card?
+- I don't understand what a disposable virtual card is, can you help?
+- What are these disposable cards meant for?
+- What do the disposable cards do?
+- How do I receive a disposable virtual card?
+- Is there a disposable virtual card option?
+- Please explain how disposable virtual card work.
+- I'm not sure how disposable virtual cards work. Please help.
+- How do I use the disposable cards?
+- How do I know if i need a disposable card?
+- Am I able to order a disposable virtual card?
+- Can you tell me how to get a disposable virtual card?
+- How can I obtain a disposable virtual card?
+- Can you tell me where to go to get a disposable virtual card?
+- Is there any way i get a disposable virtual card as well?
+- I'm interested in learning more about disposable virtual cards.
+- How to a go about ordering a disposable virtual card?
+- I need a single use card for shopping online
+- I need to deposit my virtual card, how do i do that.
+- What are the benefits of a disposable card?
+- What is the disposable card for?
+- I have heard about these disposable virtual cards but don't understand how they work.
+- The disposable cards - what are they for?
+## intent: getting_virtual_card- I would like to order a virtual card, where can I get one?
+- I need to order a new virtual card, how do I do that?
+- How can I sign up for a virtual card?
+- I haven't received my virtual card yet!!
+- Can you give me a virtual card?
+- I want to get my hands on one of those virtual cards!
+- i need a virtual card
+- How do I get to the virtual cards?
+- want to know how to get virtual card
+- Where is my virtual card?
+- Where are the virtual cards?
+- Is it possible to order a virtual card?
+- how to i go about getting my virtual card
+- I don't have a virtual card - how do I get one?
+- How to receive virtual card?
+- Why haven't I gotten a virtual card yet?
+- Where do I order a virtual card?
+- Can i have a virtual card?
+- Please explain to me the process of getting a virtual card.
+- my virtual card has not came yet!
+- Which part of the app do I order virtual cards from?
+- Where do I have access to a virtual card?
+- How to order a virtual card
+- Where do I get a virtual card?
+- Why haven't I been given a virtual card yet?
+- Can you help me find the virtual card?
+- How do I go about getting hold of a virtual card?
+- Where's my virtual card
+- How can I go about ordering a virtual card?
+- Where can i find the virtual card?
+- I'd rather not use my physical card, how can I get a virtual card?
+- What do I have to do to get my virtual card?
+- can i use my app to get a virtual card
+- How can I obtain a virtual card?
+- I'm interested in getting a virtual card.  How do I get one?
+- What is the way to go about getting a virtual card?
+- How can I receive a virtual card?
+- When will my virtual card arrive?
+- How do I get my virtual card?
+- how to get virtual card
+- What is the best way to get my virtual card?
+- I need to make a purchase online, where is my virtual card?
+- I look but I see no virtual card. Why is that?
+- Hello, what is a virtual card and how do I get one?
+- How come I did not get a virtual card yet?
+- how many virtual cards can i have, i want 8
+- How do I get a virtual card on my device?
+- How do I access the virtual card?
+- I'd like more info on getting a virtual card.
+- Do I get to have one of those virtual cards I've heard about?
+- where can i have a virtual card
+- I would love one of the virtual cards!
+- I would like to order a virtual card.
+- I have yet to receive my virtual card
+- How long will it take to receive a virtual card?
+- Why have I not received a virtual card yet?
+- I can't find the virtual card
+- Can you assist me in acquiring a virtual card?
+- I want one of the virtual cards!
+- How come I didn't get a virtual card yet?
+- And do you have virtual cards instead of physical ones?
+- How do I go about getting a virtual card?
+- When will I get a virtual card? I haven't gotten one yet
+- Where can I order my virtual card?
+- Where can virtual cards be ordered?
+- How can I locate the virtual card?
+- How long do you have to wait to see your virtual card your ordered?
+- I want to get a virtual card!
+- How to access my virtual card
+- Where can I sign up for a virtual card?
+- Where do i go to receive a virtual card
+- Are there virtual cards
+- Please let me know how to place an order for a virtual card
+- I ordered a virtual card but it hasn't come through yet
+- Is there a way to get a virtual card?
+- I haven't received my virtual card yet, do yo know why?
+- why hasn't my virtual card arrived?
+- What is the virtual card and how can i get one?
+- I have lost my card, but need to place an online order! How do I get a virtual card instantly?
+- I've got to have one of those virtual cards.
+- Where is my virtual card located?
+- Why have I not yet received my virtual card?
+- Where would I order a virtual card?
+- I need to order a new card, can you please direct me to the virtual cards?
+- I need my virtual card
+- I haven't received my virtual card.
+- How do I receive a virtual card?
+- I heard you have virtual cards. How do I get one?
+- I would like a virtual card...how do I get one?
+- explain the virtual card
+- I'd like like to know where I can order a virtual card?
+- what is a virtual and how do i get one
+- why hasn't my virtual card come yet?
+- Is there a way to order a virtual card on the website?
+- Is there an alternative to a physical card?
+- Please tell me how I can get a virtual card.
+- I did not get my virtual card yet, Why?
+- Where do I find a virtual card?
+## intent: virtual_card_not_working- Why isn't my disposable virtual card working?
+- Can I use my virtual card to complete transactions for memberships?
+- Why won't my virtual card work?
+- My virtual card is just not going through.
+- My virtual card isn't working.
+- My disposable virtual card was rejected.
+- My disposable virtual card got rejected
+- Why was my virtual card rejected?
+- My throwaway virtual card won't work
+- My disposable virtual card wouldn't process my payment?
+- The virtual card won't work.
+- Is there a reason why my virtual card won't work?
+- Help me get the virtual card working.
+- I can't seem to get my virtual card to work.
+- My disposable virtual card isn't working.
+- I tried paying with my disposable virtual card earlier but it was rejected. What can I do to fix this?
+- I can't use my virtual disposable card
+- How do I get this damn virtual card to work?
+- I can't get the virtual card to work
+- This disposable virtual card is not working.
+- i cannot get virtual card to work
+- My virtual car is not working.
+- I cannot get my disposable virtual card to work
+- I cannot get my virtual card to function.
+- What is the reason I got rejected for using my disposable virtual card to pay a subscription to the gym?
+- I can't get my virtual card to work at all
+- I can't get my virtual card to work.
+- I can't do any business with this virtual card.
+- I received my Virtual card information, but was unable to use it to make a purchase. Why did this happen and what can I do?
+- Why can't I make multiple payments with my virtual card?
+- Please help me.  My disposable virtual card won't work right.
+- Can I use my virtual card for recurring monthly payments?
+- virtual card won't work for me
+- My disposable virtual card won't work.
+- I tried to use my disposable virtual card to pay a subscription to the gym and it got rejected. Any ideas why?
+- Why is my disposable card not working?
+- What do I have to do to get the virtual card to work?
+- What do I do if my disposable virtual card doesn't work?
+- I can't make purchases with my virtual card.
+- I have a disposable card but it does not work?
+- My Virtual card was rejected for a car rental. Why?

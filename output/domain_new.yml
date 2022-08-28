@@ -1,0 +1,12 @@
+intents:
+  - apple_pay_or_google_pay
+  - contactless_not_working
+  - lost_or_stolen_phone
+
+responses:
+  - utter_apple_pay_or_google_pay:
+  - text: "Text for apple_pay_or_google_pay"
+  - utter_contactless_not_working:
+  - text: "Text for contactless_not_working"
+  - utter_lost_or_stolen_phone:
+  - text: "Text for lost_or_stolen_phone"

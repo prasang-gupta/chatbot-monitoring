@@ -1,0 +1,282 @@
+## intent: apple_pay_or_google_pay- Hi, I have an apple watch. How do I use it to top up my card?
+- Can I use google pay to top up?
+- why top up is not working even if I got my American Express in Apple Bay?
+- Can I deposit money using Apple Pay?
+- Can I use google pay for topping -up
+- I do I top up from my Apple Watch?
+- I need to top up, can I use google pay?
+- How do I go about topping up with Google Pay?
+- google pay top up did not work
+- Google play top up help?
+- What currencies does google pay top up accept?
+- Can I use my American Express card with Apple Pay?
+- Why can't I get my top up to work in Apple Pay?
+- Can I use my apple watch to top-up?
+- Is top-up possible with Apple Pay?
+- Why isn't my google top-up pay working?
+- What do I do if my Google pay top up isn't working?
+- Can I top up with Google Pay?
+- Am I able to use Apple Pay?
+- I got my American Express in Apple Pay, why is top up not working in my country?
+- Can I add funds directly from my Apple Watch?
+- Apple watch top up help, please?
+- I am having a slight problem with my American express in apple play, can you help me fix the problem with top up?
+- In regards to top-ups, can I do them via Google Pay?
+- How do you Top Up on the apple watch?
+- Am I able to top up with Apple Pay?
+- Can I use top-up with Apple pay?
+- I want to top up from my Apple Watch, can I?
+- Can I use the apple watch to make a top-up?
+- My American express works with my apple pay, why is top up not working?
+- I would like to know if I can top up with Google Pay.
+- Can I top-up via Apple Pay?
+- Can I top up using my apple watch?
+- Why is top up not working for my apple pay app
+- Can I use Apple Pay to top-up?
+- Why doesn't my Google pay top up work?
+- How can I set up Google Pay on my device?
+- Can you show me how to top up with Google play?
+- I seem to be having trouble with my Google Pay Top. Can you please help?
+- Does Google Pay offer a top up option?
+- I got my American Express in Apple Pay, why is top up not working on my device?
+- How do I get Top Up to work in Apple Pay?
+- is apple pay a top up service?
+- How do I top up using my Apple Watch?
+- I want to top up my account. Can I do it with Google Pay?
+- Can I use my apple watch to top up?
+- I received my American Express in Apple Pay, is there a reason why top up is not functioning properly?
+- Can I use my Apple Watch to pay for gas?
+- I would like to use top-up with my Apple Pay.
+- how do I get top up to work for my card
+- My google top-up pay is not going through
+- how do i set up my apple pay watch to connect to my account
+- need help with google pay top up
+- My Google pay top up isn't working.
+- Help me please, My Apple Pay American Express top up does not work.
+- Are top-ups allowed using Apple Pay?
+- Is topping up with Apple Pay possible?
+- what can I do if I got my American Express in Apple Bay but top up is not working?
+- Top up is not working even though I have my AMEX in apple pay.
+- where do I top up my google pay?
+- Using Google Pay, can I top up?
+- Why is top up not working if I use my American express with my apple pay?
+- Unable to use my American Express with Apple Pay to top up my account
+- Does my top up and apple pay work together?
+- I can't use top up on Google Pay.
+- I have received my American express in apple play, looks like top up has an issue, please help?
+- Why isn't my google pay top up working?
+- Is it possible for me to top up with Google Pay?
+- Can apple pay handle top up exchanges?
+- Am I able to Top Up with Apply Pay?
+- How do i top up my google pay?
+- I want to top up with my Apple Watch.
+- Could google pay and top up be together?
+- I can't get google pay to work right.
+- Does google play offer the service to Top up?
+- Can I top-up my google pay?
+- Can I use American express with apple pay? Why does it make my top up not work?
+- Can I top up my account with Google Pay?
+- I cannot get my google pay to work.
+- Is there a way to top up using my Apple Watch?
+- I can't get my Google Pay Top to work. Are there any issues on your end?
+- can I top up an apple pay?
+- Can you explain why my Google Pay Top isn't working?
+- Am I able to do top-ups with Google Pay?
+- What are the steps needed to top up with Apple Pay?
+- i received my American Express in Apple pay, is there a reason why top up is not working?
+- Google Pay Top up isn't working
+- Can you help me get Top Up to work in the Apple Pay function?
+- Will be Apple Watch be able to let me top up?
+- How can I top up with my apple watch?
+- What services can I use to top up?
+- Can an apple watch be used to tup-up?
+- Can I use my Apple watch to fill my gas tank?
+- Why isn't my Google Pay top up working for me? Did I do something wrong?
+- What should I do to top up using my Apple Watch?
+- my google pay seems to be acting up.
+- top up google pay, is it possible?
+- is it possible to top-up with google pay.
+- how do i setup my apple pay
+- is there a way to do top up with apple pay
+- top up for my american express card is not working
+- How to activate Google Pay for top up?
+- My Google pay top up isn't working. Help.
+- I can't see my Google Pay top up. Is it not working correctly?
+- How can I get my Google pay top up to work?
+- Google pay top up not working.
+- My Apple Pay top up with my American Express card is not working? Please tell me why
+- Is it possible to top up with Google Pay?
+- Can top ups be done from an apple watch.
+- Can you assist on apple watch top ups?
+- i received my American Express in Apple pay, why is top up not working?
+- How can I top up using google pay?
+- i have been trying to add money with apple pay but it wont work, why?
+- Google Pay isn't working. What is wrong?
+- Google Pay won't let me top up.
+- Apple pay is not accepting my American Express card, can you assist me with this problem?
+- I got my American Express in Apple Pay, why is top up not working correctly?
+- Can you please assist me in Apple Pay, in getting Top Up to work?
+- Can I use google play as my primary app to Top up?
+- Does Apple Watch support the topping-off of my account?
+- I'm trying to use my Apple Watch to top up my google pay. Do I need a special app?
+- Can I pay for my gas using my Apple watch?
+- Can Google Pay be used for top up, please help?
+- How can I top up with Google play?
+- How can I top up with Apple Pay?
+- Is it possible to use my apple watch for topping up?
+## intent: contactless_not_working- Should i uninstall the app before i try it again?
+- How come when I tried to pay contactless at the bus it didnt work?
+- Why is my contactless not working?
+- My contactless payments don't work.
+- how many days processing new card?
+- I'm confused. My contactless is suddenly not working anywhere that I try to use it. How do I fix it?
+- Would reinstalling the app solve the problem?
+- I've tried using my contactless in several locations today and it's not working anywhere. It seemed fine before. How do I get it to work again?
+- What do I have to do to get the contactless to work?
+- The terminal I paid at wouldn't take my card. Is something wrong?
+- Why wasn't my contactless accepted at the metro?
+- Can I make a contactless payments?
+- I can't get a contactless payment to work.
+- Contactless payments need to be enabled for my card.
+- Help me to set up contactless payments.
+- My contactless stopped working today for no good reason. It's not working no matter where I try to use it. Can you please help me fix it?
+- I'm confused ass to why my contactless is not working.
+- I need help fixing my contactless. It's not working anywhere I go today.
+- The contactless payments are not working.
+- how to get new card?
+- How do I troubleshoot my contactless?
+- How can I fix my contactless?
+- Any charges applicable for new card?
+- I have a contactless that's broken.
+- My contactless is non-functional.
+- How can i get new card?
+- My contactless stopped working today no matter where I try to use it. How do I get it to start working again?
+- How do I troubleshoot when contactless doesn't work?
+- How can I fix my card if the contactless function didn't work this morning?
+- I was trying to use contactless earlier, but it didn't work.
+- Why wouldn't my contactless work for the metro?
+- Are my contactless settings correct? I tried to use it today but it wasn't working.
+- I am having problems with my contactless.
+- I am having issues using contactless payments, could my card be damaged?
+- What is the reason when I tried to pay contactless at the bus, it didnt work?
+## intent: lost_or_stolen_phone- My phone was stolen, what should I do first?
+- My phone was stolen, what should I do?
+- I lost my phone, what should I do?
+- Someone has stolen my phone, what should I do?
+- I think I lost my phone.  Is there a way to prevent anyone from getting into my account on it?
+- My phone was stolen! What do I need to do?
+- Can I use the app without my phone?
+- My bag was stolen from me yesterday, so I can't use any apps or anything. I need some help.
+- Someone stole my phone, what is my next step?
+- I forgot my phone at the hotel, so I can't access the app.
+- Help, my phone was stolen, please advise!
+- my phone was lost
+- I need help- I got mugged yesterday and they took everything so I can't use the app.
+- I can't find my phone and I'm worried someone is going to use it
+- I lost my phone! Will my card still work?
+- I can not find my phone or it has been stolen.
+- I can't use the app because I got mugged yesterday and they took everything. Please help.
+- Can you tell me what i steps i should take since my card was stolen?
+- What do I do if my phone was stolen?
+- What do I do if I can't access the app?
+- What do I do if my phone is stolen?
+- I left my phone somewhere and can't use the app.
+- Someone mugged my and stole everything.  I can't use the app.  What should I do?
+- I got mugged yesterday and they took everything. I can't use the app, so I need some help.
+- I am not sure where my phone is.
+- If my phone was stolen, do I need to do anything?
+- Please help!  I was mugged and everything stolen.  What do I do to stop them from accessing my account?
+- I have an emergency and lost my phone.  I need help accessing my account.
+- stolen phone, what should i do
+- Help me.  My phone has been lost or stolen!
+- My app was on the phone and I was mugged.  What do I do?
+- I don't have the device I used to log onto the platform so I can't access it.
+- I lost my phone. Can I use my card without the app?
+- What should I do if my smart phone is lost or stolen?
+- If I lost my phone, what steps do I need to take to stop someone from using my account?
+- Can someone else use my account if they have my phone?  I lost mine.
+- My phone was stolen, help!
+- phone is gone, what should i do
+- I'm currently not in possession of my phone, is it still possible to go about things normally without access to the app?
+- I lost my phone. Can I disable to app?
+- phone is gone, dont want others to access account information
+- Is there something that I can do since my phone was stolen yesterday?
+- I think my phone was stolen. What can I do?
+- Is it possible to access my phone from the hotel/
+- I lost my phone. What do I need to do?
+- Someone has taken my phone from my hotel room!
+- Can my account me accessed by a thief?  I was mugged.
+- My phone is missing or stolen.
+- I misplaced my phone so I can't use the app! Does this mean I can't use my card?
+- I left my phone at the hotel I was staying at so I can't use the app!
+- My phone was stolen yesterday, can you help me with this?
+- I was recently mugged and would like to know if I have to have access to the app to use your services and how I would go about setting up your services on a new device belonging to a current user?
+- My phone is at the hotel.  How can I use the app?
+- My cards were stolen
+- My phone has been lost or stolen
+- my phone has been stolen by someone
+- What should I do if someone stole my phone?
+- My phone has been stolen.  How can I make sure no one uses my account from it?
+- Can I use your services without access to the app?
+- I was mugged.  They took everything.  I can't use the app.  What do I do?
+- How do I protect my phone from someone using it after I lost it.
+- My phone was left behind.  Can I still use my card?
+- phone is gone
+- I just replaced my phone so do I have to make a new account?
+- Everything I have was stolen yesterday making it so I don't have access to the app, what should I do?
+- I don't have my mobile device and am unable to make the payment because I forgot my details.
+- What do I do if I lost my phone?
+- I don't have my cell phone with me so I cannot access the system to complete the transaction.
+- I no longer have my phone, what should I do?
+- I lost my phone and need help so someone doesn't access my account.
+- Yesterday I had my phone stolen.  Please advise what I should do.
+- I lost my phone and need help protecting it.
+- I don't know where my phone is.
+- I can't use the app because I got mugged yesterday and they took everything. I need some help.
+- What should I do if my phone is lost or stolen?
+- What do I do if I cannot access the app?
+- I have lost my phone.
+- what to do about stolen phone
+- I have lost my phone, what steps can I take to prevent someone using my account?
+- Is there anything to do because my phone was stolen?
+- Help!  I think my phone may be stolen or lost!
+- I no longer have my phone with the app, what should I do?
+- Can I still access the app even though my phone was stolen?
+- What do I do to lock my phone after losing it so my account isn't accessed
+- I no longer have my phone.
+- I cannot get to my app, what should I do?
+- Yesterday my phone was stolen from me :( What do i need to do about it?
+- My phone got stolen, how can I use the app?
+- My phone was stolen, what can I do?
+- I accidentally left my phone at the hotel so now I'm not able to use the app.
+- How can I access my account when I have lost my phone?
+- I have lost my phone or it has been stolen.
+- I can't find my phone; what can I do to prevent someone from accessing my account on it?
+- What should I do if I lost my phone?
+- My phone was left at a hotel and I can't access the app.
+- Hi, I lost my phone yesterday, what can I do to stop someone using my account on it?
+- I cannot find my phone, what should I do?
+- My phone is missing.
+- Do I need my phone to use the app?
+- left my phone at hotel, cant use app
+- How do I use my card if I lost my phone?
+- hello I have lost my phone and I'm worried someone's going to steal money from me
+- If I lost my phone, how can I stop someone from accessing my account through the app?
+- My phone was taken yesterday, is there something that I need to do?
+- I can't use the app.  My phone is lost at the hotel.
+- If I lost my phone at the hotel, can I still use the app?
+- I'm not sure where my phone is.  Can someone else use the app?
+- my phone was taken yesterday, what should I do about my account?
+- My phone is lost I don't want someone to use my account, what can I do?
+- My phone has been stolen.
+- I just replaced my phone but how do I use my card information?
+- What do I do if my smart phone was stolen?
+- How can I stop someone from using my card after I lost it yesterday.
+- Do I need to do anything? My phone was stolen yesterday.
+- Help!  What should I do?  My phone was stolen yesterday.
+- I left my phone at the hotel.
+- Everything was stolen from me.  I can't use the app.  Please advise.
+- My things were stolen and I need to know if I can still use this app.
+- lost my phone, what is account security?
+- I lost my phone.  What do I do to block someone else from using my account?
+- phone is at a hotel, can i still use app

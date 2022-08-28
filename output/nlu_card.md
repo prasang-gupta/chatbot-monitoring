@@ -1,0 +1,2801 @@
+## intent: activate_my_card- Please help me with my card.  It won't activate.
+- I tired but an unable to activate my card.
+- I want to start using my card.
+- How do I verify my new card?
+- I tried activating my plug-in and it didn't piece of work
+- How do i activate my card
+- Can someone assist me with activating my card?
+- My card needs to be activated.
+- I was unable to activate my card.
+- Is my card ready for use or does it need activated and if so how?
+- Help me activate my new card.
+- Do I need a photo ID to activate a my new card?
+- I just got my new card, how do I activate it?
+- Can I have my card activated?
+- i cant seem to activate card
+- It won't let me activate my card.
+- I tried activation my card and it didn't employment
+- I want to use my card. How do I activate it?
+- Activate my card
+- Can I get some help activating my new card?
+- Is my card activated?
+- I would like to activate my card.
+- Can I call to get my card activated?
+- How can I activate my new card? I didn't recieve any information with it about how to do so.
+- How do I activate my new card I just got?
+- will you be able to activate my card
+- Can I get some help to get me card activated?
+- I want to activate my new card.
+- What would II do if I wanted to activate my new card
+- What needs to be done to activate and use a card?
+- Can I activate my card?
+- I need assistance activating my card?
+- I need assistance with activating my new card.
+- How do I get my card active?
+- What do I have to do to activate my card?
+- What is needed to activate my card?
+- How can my new card be activated?
+- Can you activate my card pls
+- How do I turn on my new card?
+- Please assist me in activating the card.
+- Would you be so kind as to activate my card? Thanks
+- I tried activating my card and it doesn't work how do I solve this problem?
+- Can I activate my card with the app?
+- I want to start using my card, how do I activate it?
+- What is the process to activate a card
+- Hi, would you please activate my card?
+- What do I need for activation of my card?
+- How do I activate my card, so that I can start using it?
+- I need my card activated.
+- I would like to be assisted with the activation of my card.
+- I just received my card and I'd like to activate it.
+- can you assist me in activating my card?
+- How do I activate my card to start using it?
+- Instructions for activating card
+- What do I need to do for the card activation?
+- I am unable to activate my card, it won't let me.
+- When are you going to activate my card?
+- I need to activate my card.
+- How can I activate my new card?
+- What do I do to activate?
+- What steps do I have to take to activate my card?
+- My new card just arrived, how can I activate it?
+- I am having trouble activating my card.
+- My card is not able to be activated how do I get it to work?
+- I'm not able to activate my card how do I fix this problem?
+- I cannot activate my card.
+- How can I activate the new card i got?
+- how long should i wait ti activate my card
+- How do I activate a card?
+- What is the procedure for activating this card?
+- My card needs to be activated asap
+- What is the most efficient way to activate my new card?
+- I couldn't complete card activation.
+- Who do I call to activate my new card?
+- You can activate your card in a few seconds by going to account, hitting activate, and just following the directions.
+- Tell me what I need to do to activate my card.
+- What is the process for activating a new card.
+- My card activation is failing.
+- I need to activate my card, how is that done?
+- I would like to activate my card what do I need to do?
+- I have my card now how do I activate it?
+- How long does it take to activate my card?
+- How do I activate my card so I can start using it?
+- Explain the activation method for this card
+- Can someone assist me with activating my new card?
+- What is the process for activating my new card?
+- I would like to have assistance with activating my card.
+- Tell me how to renew my new card?
+- My new card came in.  How do I activate?
+- How do I active this card?
+- what are the steps to activate my card?
+- I have a new card and need to activate it
+- I would like to get help from someone in your customer service department with assisting me with activating my card.
+- What are the steps that I need to take to activate a new card?
+- I tried activating my card and it didn't work
+- I need my card to be activated right now.
+- What information do I need to gather in order to activate my card?
+- what do i need to have with me to activate card
+- What am I going to need in order to activate my card?
+- Show me how to activate my card
+- I need more assistance with how to activate my card.
+- Can you tell me how I go about activating a new card?
+- My new card needs activating.
+- Where do I activate my card?
+- Do you know the process how to activate my card?
+- How can i make my card active?
+- Please help me with the activation of the new card.
+- Can you help me activate my card
+- My card activation attempt failed.
+- I just got a new card, and I want to know how to activate.
+- Would it be possible to activate my card?
+- Card activation steps
+- What is the process for activating my card and using it?
+- I have a new card and I need to activate it.
+- Do I have to go somewhere to activate my card?
+- What do I do to activate my new card?
+- I just got a new card how do I get it to start working?
+- I need assistance to activate the card on my account.
+- I can't activate my card?
+- My new card is here, what's the process for activating it?
+- Where can I activate my card?
+- How can I switch on my new card?
+- With my new card, how may I activate it?
+- Help me activate my card.
+- How long does it take to activate the card, as it does not look like its working?
+- You can do that in just a few seconds. Go to account, hit activate, and follow the directions from there.
+- Card activation is not working. What do i do?
+- What identification is required to activate my card?
+- I need to do a card activation.
+- I want to activate my card, how do I do it?
+- I want to activate the card.
+- I am planning activating my card was it possible?
+- The activation process for my card isn't working.
+- Could you please tell me how to activate my new card?
+- I need to actuate my card.
+- I need info on activating my card?
+- I would like my card activated.
+- How can I make my card ready to use?
+- Can I use my new card?
+- What steps do I have to go through in order to activate my new card?
+- I have a new card. How do I activate it?
+- The activation process did not work, please help?
+- I just got my card and cannot get it to work.
+- Just received my replacement card, what steps do i need to take to activate it?
+- I want to use my card, how would I activate it?
+- How do I activate my new card
+- What are the steps to activate the card, as it does not seem to work?
+- I just got my new card.  How can I activate it?
+- Please assist me with activation.
+- Where do I go to activate my card?
+- If you to to account, hit activate, and follow the instructions, you can activate it in just a few seconds.
+- Is my new card activated?
+- Help my activate my card.
+- i cannot seem to activate card
+- What do I need to do in order to use my card I just got?
+- My new card has arrived, what's the activation procedure?
+- How can my new card be renewed?
+- What is the proper way to activate a card?
+- How do I activate my card that just arrived?
+## intent: atm_support- I can use this card at which ATMs?
+- Can I use the card at any cash machine?
+- What locations can I get money from?
+- What ATMs take this card?
+- Which ATM's can I use to make a withdrawal?
+- Do all ATMs accept this card?
+- Will this card work at any ATM?
+- Which ATMs am I allowed to get money from?
+- Where is the closest ATM to me?
+- Which ATMs accept this bill of fare ?
+- Do I have to use a bank approved ATM to withdraw money?
+- How do I withdraw money?
+- Can I use this card at any ATM?
+- What locations allow me to withdraw money?
+- What ATMs accept my card?
+- Can I use my card to withdraw from my account?
+- Can you tell me where I can withdraw money?
+- What kind of ATMs would this card be accepted at?
+- Are there specific ATM's that I can draw money from?
+- Where can money withdrawals be made?
+- Do I have to use bank approved ATM's
+- Where can I find Mastercard ATMs?
+- What ATMs can I use my card at?
+- What ATM machines allow this card?
+- Where can I do a cash withdrawal?
+- Where should I withdraw money from?
+- Where are the ATMs that accept this card?
+- Is there a way to find an ATM around me?
+- Will any ATM's decline my card?
+- What ATMs can I use my card?
+- What cash stations take this card?
+- 
+At which ATMs can I use this card?
+- Please provide me a list of ATMs that accept my card.
+- Can I use my card at an ATM?
+- Where is the closest ATM I can use?
+- Where is the nearest Mastercard ATM?
+- Where can I get money from my card?
+- How can I find an ATM that accepts this card?
+- I need an ATM right now!
+- Which ATMs accept Mastercard?
+- What is the closest ATM?
+- What ATMs use this card?
+- What ATMs can I use this card?
+- Can I get money out of any machine?
+- Is the closest ATM to me within 2 miles?
+- I need to withdraw money. Where can I do that?
+- Can I use my card in another institutions ATM?
+- Where is a ATM that accepts Mastercard?
+- Where are the Mastercard ATMs?
+- Where can I withdraw money from?
+- 
+Where can I withdraw money from?
+- Can I use a different bank ATM than my own?
+- need to know places i can withdraw money
+- The card can be used at which ATMs?
+- What's the closest place to withdraw money?
+- Is there a list of ATMs that take this card?
+- Is there a Mastercard ATM nearby?
+- Am I limited to what ATM I can use my card?
+- how do I know where I can get money withdrawn?
+- Tell me what ATMs take this card.
+- Where are the ATMs that I can use Mastercard?
+- Where is an ATM?
+- Which locations can I withdraw money from?
+- Can this card be used at all ATMs?
+- Are there any ATM's near me that accept this card?
+- I need help from someone in your department with finding my nearest ATM.
+- what are the locations i can withdraw money
+- Which ATMs accept this circuit board ?
+- How many ATMs will take this card?
+- What ATMs can I use this card at?
+- Is this card accepted by ATMs?
+- Are there only certain ATM machines where I can use this card?
+- Where can I find a Mastercard ATM?
+- Tell me what ATMs use this card.
+- Which ATMs take the card?
+- How far is the closest ATM from me?
+- Can you tell me the ATMs I can use with my card?
+- Where is a Mastercard ATM?
+- I need to know where I can withdraw money.
+- Are there specific ATM's I can use with this card?
+- Where can I find an ATM?
+- How can I tell if an AMT will take this card?
+- How do I know it is a Mastercard ATM?
+- ATMs, which ones will accept this card?
+- What ATM locations are near me?
+- What ATM accepts Mastercard?
+- Can I withdraw from any ATM?
+## intent: card_about_to_expire- Are there any express fees if i want my new card faster?
+- Do I need to do something to get a new card once it expires?
+- I am overseas in China, can I get a replacement card?
+- Can I get a new card with new expiration date in China?
+- Are there restrictions on new cards in China?
+- Need a new card, mine is expiring.
+- I need a new card to replace an expired one. Will it cost anything, and how soon?
+- My card expires next week. How do I get a new one?
+- What is the cost and time frame of getting a new card?
+- Is it possible to get a new card in China?
+- Does it cost much or take long to get a new card? Mine is about to expire.
+- Are there steps I need to take before my card expires?
+- My card is about to expire.  How do I get a new card?
+- Will I receive a new card when mine expires?
+- My card is due to expire
+- What do I do if my card expires soon?
+- If I am in China, can I still order a new card and if so, how?
+- In a month, my card will reach its expiration date, am I required to request the next card?
+- What happens if my card expires?
+- My card's expiring a month from now, should I place an order for the new card?
+- Will I be sent a new card before mine expires?
+- The date my card expires is coming up
+- How can I replace an expired card?
+- How do I get a new card sent to China?
+- After my card expires what should I do?
+- My card is about to expire. What do I need to do to keep using my card?
+- My card will expire soon, do I need to order a new one?
+- Where can I have a new bank card sent to China?
+- I'm in China and need a new card. Please help.
+- Tell me what I should do after my card expires.
+- How do I know when my card will expire?
+- What is the procedure for an expired card?
+- How do I order a new card when my old one is ready to expire?
+- What do I do if my card is about to expire?
+- What happens after my card expires?
+- Where can I order a card when I am in China?
+- How do I replace a card that's going to expire?
+- If my card becomes expired what can I do?
+- What steps should I take before my card expires?
+- I need a new card before it expires.
+- When will I get a new card when I order it, and how much will it cost.
+- Can I wait for you to send me a new card when mine's about to expire?
+- When my card expires soon, how fast is the replacement card sent and what are the costs?
+- How do I order a new card? The current one is about to expire.
+- Can I order a new card to China?
+- Is ordering a new card from China available?
+- What to do if my card is about to expire?
+- My card is about to expire.  Are there any costs with a replacement card?  How quick do you mail it to me?
+- Is there a way to order a new card while in China?
+- The expiration date on my card is very soon, and I need to get a new one.  What are the price and delivery options for my replacement card?
+- If my card is about to expire how long would it take to receive a new one and how much would that cost me?
+- My card is about to expire.  How do I order another?
+- My card is expiring soon, How do I order a new card?
+- I need to order a new card as my old one will expire soon. Can you tell me how to order a new one?
+- When my card expires what is the cost of a replacement and how fast?
+- I will need a new card because mine is almost expired.  How fast do I get a replacement and what is the cost?
+- Do I need to order a new card if mine is expiring?
+- My card will expire next month, will I need to order a new one?
+- Am I able to get this shipped to China?
+- My card expires very soon.  What is the cost and delivery time to get a new one?
+- The expiration date for my card is coming up, how do I get a new card?
+- Tell me how to replace my expired card.
+- Can I order a new card by phone?
+- My card is expiring soon.
+- My card is about to expired what will happen?
+- What should I do when my card reaches its expiry date?
+- Please inform me how to get a new card as mine is about to expire.
+- My card expires soon, will you send me one automatically?
+- want a new card what are the fees
+- My card's expiration date is close.
+- What will happen after my card expires?
+- Can I get a new card in China?
+- My card is about to expire, what do I do?
+- Can I order a new card with the app?
+- How do I replace my card before it expires next month?
+- My card is expiring so how fast can I get a new one and how much will it be?
+- I need a new card, my old card is expiring.
+- How do I replace my card before it expires?
+- What can I expect at card expiration?
+- If I order a new card, how much will it be and how long will it take me to get it?
+- How can I get a card sent to China?
+- What should I do once my card expires?
+- How do I order a new card if my current one is about to expire?
+- I want to get a new card before my current one expires, how much will it cost me and how long will it take to get here.
+- My card is going to expire, what do I do?
+- Do I need to order a new card before it expires?
+- Does it cost anything to get a new card? Mine's about to expire and I'd also like to know how long it takes to get the new one.
+- My bank card has expired, how can I get a new physical card?
+- how to get a new card in china
+- How do I go about ordering a new bank card?
+- I have a card that expires in the coming month, do I have to specifically ask for the updated card?
+- If my card expires next month, will I need to order a new one?
+- The expiration of my card is near, how do I order a new card?
+- What do I do after my card expires?
+- Do I need to re-apply to order a new card when my old one's about to expire?
+- I need to renew a card that's about to expire
+- If my card is going to expire this month, do I need to order a new one?
+- Soon my card will expire, how do I get a new one?
+- Can I order a new card?  Mine is about to expire.
+- My card is due to expire soon.
+- Can I keep using my card after it expires?
+- How do I replace my card?
+- Are new cards available from China?
+- My card is almost going to expire.
+- I'm in China and really need a new card.
+- My card will expire soon, When do I need to order a new one?
+- Does it cost anything and how long would it take to get a card if I need a new one? My card is about to expire.
+- My card is about to expire. Do I have to go to a branch to order a new card?
+- Will you send me a new card in China?
+- What do I do about my expired card?
+- Can I have a new card shipped to China?
+- Am I able to have a card sent to China?
+- My card's expiration is approaching, how do I replace it.
+- How do I get a new card when my old one expires?
+- What happens when my card expires?
+- What is the process when my card is due to expire?
+- My card expires soon
+- My card is almost expired.  How fast will I get a new one and what is the cost?
+- What is the process to get a new card when your old one expires?
+- Help me order a new card that's going to be expired soon.
+- What do I do when I get close to the expiration date of my card?
+- My card is about to expire.  Where do I get a new one.
+- want to get a new card in china
+- Can you give me info about what to do when my card expires?
+- My card has an expiration date, will you send a new one automatically?
+- Can I get a new card even though I am in China?
+- My card is expiring, how do I get a new one?
+- I think my card is expiring, what happens then?
+- How do I get a new expiration date?
+## intent: card_acceptance- Is there anywhere I can't use my card?
+- In which stores can I shop with this card?
+- How do I know where I can use my card?
+- Can I tell what business will take this card?
+- Are there businesses that don't accept this card?
+- Is the card welcomed by everybody?
+- Do you have a list of businesses that accept this card?
+- What businesses accept this card?
+- What retailers accept my card?
+- This card is accepted by what businesses?
+- Will this card work all over the world?
+- WHAT IS THE ATMOSPHERE OF IT
+- What kind of businesses will take my card?
+- Where do I pay with my debit or credit card?
+- Can I pay online with my card?
+- Do you know which businesses will accept my card?
+- Who accepts the card?
+- You accepts my card?
+- Is my card accepted anywhere?
+- Is my card denied anywhere?
+- 
+Where can I use my card?
+- Where can I use my Mastercard?
+- where is card accepted
+- Where can I pay with my card?
+- Where can my card be used?
+- Is my card valid everywhere?
+- Which establishments will accept my card?
+- Are there limits to businesses that will accept this card?
+- Any place that takes Mastercard would be fine.
+- Is there a list of where I can use my card?
+- What are the limits to where my card will be accepted?
+- Can I use my card wherever I want?
+- Where can I use my card to pay?
+- Are there any limits to were my card is accepted?
+- Can I use my card while on vacation overseas?
+- Are there any places that won't take my card?
+- Which merchants accept my card?
+- You can use it anywhere that accepts Mastercard.
+- Is there restrictions on where I can use my card?
+- Can I use my card for online payments?
+- Are there limits as to where my card will be accepted?
+- Where do I pay with my card?
+- Which merchants accept this card?
+- Are there any restrictions to where I can use my card?
+- At what places accept my card?
+- In what places can I use my card?
+- What places accept my card?
+- Can I use my card no matter where I go?
+- Will my card work at all merchant locations?
+- How can I know where my card will be accepted?
+- Can I pay with my card anywhere?
+- Can I use my card anywhere?
+- Where can I use this card?
+- What businesses can I use this card with?
+- Do all businesses take this card?
+- Where is this card accepted?
+- What businesses accept my card?
+- Can i use this card at any store?
+- Are there any restrictions on where I use this card?
+## intent: card_arrival- I am still waiting on my card?
+- What can I do if my card still hasn't arrived after 2 weeks?
+- I have been waiting over a week. Is the card still coming?
+- Can I track my card while it is in the process of delivery?
+- How do I know if I will get my card, or if it is lost?
+- When did you send me my new card?
+- Do you have info about the card on delivery?
+- What do I do if I still have not received my new card?
+- Does the package with my card have tracking?
+- I ordered my card but it still isn't here
+- Why has my new card still not come?
+- I still haven't received my card after two weeks, is it lost?
+- Can you track my card for me?
+- Is there a way to track the delivery of my card?
+- It's been a week since I ordered my card and it's not here. Please help?
+- Will I be able to track the card that was sent to me?
+- I don't have my card in 1 week.  Should I be worried?
+- How do I know when my new card is going to arrive?
+- My new card has not been delivered to my home yet. What is going on?
+- It's been a week since you issued me a card and I still didn't get it. Should I keep waiting?
+- On the card that is coming, what's the tracking info?
+- What is the status of my card's delivery?
+- Have you sent out my card yet?
+- My card isn't here yet.
+- where is my new card?
+- It's been a week since you sent my card and I still don't have it.
+- How do I track the card you sent me?
+- When will I recieve my new card?
+- When will I get my new card?
+- What is the expected delivery date for my card?
+- Is there a tracking number for the card you sent me?
+- I would like to track the card you sent to me.
+- Has my card been lost in delivery?
+- My new card hasn't came in.
+- Where is the card I ordered 2 weeks ago?
+- Can I get an update on my replacement card?
+- How long does it take for a new card to ship?
+- What's the tracking on the card you sent?
+- I haven't received my card and am worried it is lost.
+- My card still hasn't been delivered
+- I need to find out where the card is that I ordered.
+- Where is my credit card that was to be mailed?
+- I ordered my card but it hasn't been delivered yet
+- Am I able to track the card that was just sent to me?
+- Can you tell me why I haven't received my new card?
+- I'm still waiting for my new card.
+- Is my card lost? I am still waiting for it to be delivered.
+- Should I keep waiting for my card to be delivered?
+- Can I track when my card will be delivered?
+- How can I check on the status of my new card?
+- A card has been sent to me, how do I track it?
+- Is there a way I can get my card expedited?
+- What can I do to track the card you sent me?
+- why hasnt my card come in yet?
+- How can I periodically check the delivery of the card you sent?
+- What's the reason my new card hasn't come?
+- How long does it take for me to get my new card?
+- I don't have my card after 1 week. What are my next steps?
+- I know I'm getting a new card but would like know when I can expect to receive it.
+- I want to find out what happened to my new card?
+- Was there a way for me to get tracking for that?
+- I am still waiting for my card.
+- My card hasn't arrived.
+- Can I track the card you sent to me?
+- I haven't gotten my new card.
+- How long should it take for my new card to arrive in them mail? What should I do if I never receive it?
+- Will I have to wait much longer for my new card to arrive?
+- how to track the card you sent
+- 2 weeks ago I ordered my new card.  It isn't here.  What should I do?
+- How can I check on the delivery status of my card?
+- My card has not been delivered yet and its been a week since I ordered it, please help
+- What's the expected wait time to recieve my new card?
+- How can I see the progress of delivery of the card that was sent?
+- My card was supposed to arrive, but hasn't?
+- I ordered a card and would like to know how to track the delivery progress of it.
+- How long will it take for me to get my card?
+- My card hasn't shown up yet.
+- Does the card you sent have a tracking number?
+- My card hasn't arrived in the mail yet. I ordered it two weeks ago. What can I do?
+- maximum how many days get the courier?
+- Is there a reason my new card hasn't arrived yet?
+- I've been waiting a while for my card, is there a way to know when it will arrive?
+- How can I track my card's delivery?
+- Can I track the card that was just sent to me?
+- If I ordered my new card last week, how much longer should I wait to receive it?
+- What's go on, where is my new card?
+- Where is my new card if I haven't received it yet?
+- Where is my card?
+- Can you tell me why I haven't received my new card yet?
+- Is there a way to track my card?
+- Is there a way to track the new card you sent me?
+- I'm still waiting for my card.
+- What do I need to do to get my new card which I have requested 2 weeks ago?
+- WHAT IS THE SOLUTION OF THIS PROBLEM
+- Could I get tracking on the card?
+- Can you help me track my card?
+- Shouldn't my new card be here by now?
+- Is there a reason my new card hasn't arrived?
+- I would like to track a card sent to me, how do I do that?
+- Is there a tracking number for the card?
+- can you share card tracking number?
+- I have not received my card and it's been a week, what do I do?
+- Is there a way I can check on the card on route to me?
+- When will my new card arrive?
+- Why haven't I received my new card yet?
+- What is the expected delivery date of my card?
+- My card hasn't came in the mail yet?
+- I haven't received my card.
+- Is it possible for me to track the card is was mailed to me?
+- When will my new card be delivered?
+- I was issued a card about a week ago. why hasn't it come in yet?
+- Can you please tell me where my card is? I ordered it 2 weeks ago!
+- I still haven't received my card in the mail
+- I'm still waiting for my card that was issued a week ago. What should I do?
+- I still haven't gotten my new card.  When will it get here?
+- Do you have a tracking number for the card I was sent?
+- How do I track the card you sent to me?
+- Is my new bank card on the way and is there a way to track it?
+- Could you send me and up date on the arrival of my card?
+- How long does it take to recieve my new card?
+- My card has not come in the mail yet.
+- What's the card you sent me's tracking number?
+- i havent got my card
+- Why hasn't my card arrived yet?
+- I thought I would have received my new card at this point.
+- How long until my new card gets here?
+- How much longer until I get my new card?
+- Am I able to track a card that has already been sent?
+- Is it possible to track the card you sent me?
+- How long will it be to get this new card?
+- how can i track card you sent
+- Can the card was sen to me be tracked?
+- why have i not got my new card?
+- I need to track the card sent to me.
+- It's been two weeks and I haven't gotten my card, what do I do?
+- I was expecting my new card by now.
+- Where is the tracking number for the card?
+- I was issued a new card a week ago but still haven't received it. How long will it be until I receive it?
+- Can I track the card that you sent me in the mail?
+- Can you tell me if I can track the card you sent me?
+- Why have I not gotten my new card?
+- I'm still waiting on my new card to be delivered!
+- My new card isn't here and it was issued a week ago.
+- I was supposed to receive my new card by now, but it hasn't came in.
+- Is a tracking number available for the card that was just sent?
+- Why haven't I gotten my new card?
+- Was there a number to track that I could get?
+- How much longer is it going to take to get my new card?
+- I haven't gotten my credit card in the mail.
+- My card hasn't arrived yet. What do I do?
+- My card still hasn't arrived after two weeks, now what?
+- My card appears to have never arrived?
+- My card never arrived.
+## intent: card_delivery_estimate- Can it specifically be delivered on a certain date?
+- I need to get my card quickly
+- When can I expect my card? I live in the US.
+- Help! When will the card arrive at my home?
+- Can I get my card fast tracked?
+- How long is the wait for my card?
+- i need to expedite my card
+- When should I expect to receive my card?
+- How long until my card will get here?
+- How long is the delivery time to the US?
+- Can I have it delivered on a specific date?
+- i am express delivering my card to the us, how long will that take
+- I need my card soon.
+- Can I choose when my card is delivered?
+- When will my card be here?
+- How long will delivery to the US take?
+- When can I expect delivery?
+- Can I specify a day for my card to be delivered?
+- I'm worried my card might be lost in the mail? How long does it usually take to arrive?
+- When will my card be delivered?
+- can the delivery be specific to my needs?
+- how long does delivery take?
+- To deliver to the US, how long will it take?
+- How quickly can you get me my card?
+- can I choose delivery times to suite me?
+- Can I choose the day it's delivered?
+- How long will this take to get to me?
+- When shipped to the US how long is delivery time?
+- Give me my card, I need it now!
+- I'd like to have it delivered on Saturday.  Is that possible?
+- How long will I have to wait for my new card?
+- How long is a delivery to the US?
+- What is the delivery time to the US?
+- How long does it take for deliver to the US?
+- If I order a card when does it arrive?
+- When can I expect my card?
+- How long is delivery to the US?
+- What is your shipping policies for cards?
+- I ordered my card and it isn't here yet. I need it ASAP. When can I expect to get it?
+- how long should I expect to wait for my card to arrive?
+- When will my card come? I need it as soon as possible!
+- How long should I wait for the card to arrive?
+- What is the wait time for delivery to the US?
+- Can you tell me when my card will arrive?
+- When can I expect my card to arrive?
+- Can I have it delivered on the date I need it delivered?
+- What is the length of time for one of these items to come to the U.S?
+- How long will it take to have my card mailed to me?
+- Can cards be dispatched on a specific date?
+- Can I have it by a certain date?
+- I need my card as quick as possible
+- How long will it take my card to get here?
+- Is there a specific date it can be delivered by?
+- I need my card to be delivered fast
+- Is there a specific date i can have it delivered?
+- How long will it take to deliver to the US?
+- I need my card ASAP!
+- How long will it take to get to the US?
+- How soon will I get my card?
+- What is the estimated date for delivery to US?
+- How long does it take for the card to come?
+- When will I receive the card?
+- When should I expect my card to arrive?
+- Can I pay more to get it deliver quicker?
+- How long is the delivery to the US?
+- Send me my card now! ASAP
+- I haven't received my card yet, how long does it normally take?
+- How long is US delivery?
+- can you express my card to me?
+- When will it get delivered?
+- how soon will my card arrive?
+- I ordered my card a couple weeks ago and haven't received it yet. When can I expect it?
+- How long does it take for cards to be delivered after ordering them?
+- If I need delivery on a certain day, is that something that could be accommodated?
+- how much to get my card in 2 days?
+- When are cards shipped?
+- My card is needed soon
+- What is the delivery time for US?
+- I placed my order a week ago. Is it ok that my card isn't here yet?
+- How soon do cards arrive after I order them?
+- How will I get my card?
+- How long does it take to receive my card?
+- How long until the card arrives?
+- Can I have my card delivered on Tuesday?
+- Can you tell me how long it takes for a new card to come?
+- i need to add express delivery if that's an option
+- I need my card right away.
+- Can i choose a specific delivery date?
+- When will I get my card shipped to me?
+- Do I have a say when it's delivered?
+- I need my card delivered as soon as possible.
+- I would like to make sure it is delivered on a certain date.
+- When will I receive my card?
+- Could I chose the date to have it delivered?
+- How long does it take for a card to arrive?
+- Will my card be here soon?
+- Please send my card as quickly as possible.
+- how long does it take to get my card i am in a rush
+- When can I expect to receive my card?
+- Are the delivery days flexible?  My schedule only allows me to be a available on specific dates.
+- How many days to deliver to a US customer?
+- When can I expect my new card to get here?
+- How long are deliveries to the US?
+- Can it be delivered on a certain date?
+- What is delivery speed to the United States?
+- How long does it take for something to be delivered to the U.S?
+- How long does it take for my physical card to be delivered.
+- what is the leadtime for a new card to show up in the mail?
+- What's the earliest time to receive my card?
+- are you sending me my card?
+- I need my card immediately.
+- When will it be delivered to the US?
+## intent: card_linking- My card has been found. Is there any way for me to put it back into the app?
+- I was able to find my card. How to I go about putting it into my app?
+- how do I get my card to show in the app?
+- I just got my card.  It's not linked yet--how do I do that?
+- lost card found, want to put it back in app
+- I just got a card, how can I add it to the app?
+- Is there any way to see my card in the app?
+- If I find a card I lost do I need to dispose of it? Or can I re-active the card and continue to use it?
+- I found my card. How can I put it into my app?
+- How do I make my card show up in the app?
+- Can you show me where to link the new card?
+- I found my old card. Can I link it back into the app?
+- Show me how to link the new card,
+- How do I add an existing card to the app?
+- I finally got my card.  Now I want to link it.  Is that something you have to do or can I do that?
+- How do I link one of your card that I already have?
+- If I have a physical card can I link it?
+- I found my lost card in my jacket pocket this morning so I'd like to reactivate it please.
+- Can I add a card that I just found (again) to the app?
+- How can I make my card show up in the app?
+- I would like to re-activate my card, it was previously reported  lost but I found it this morning.
+- Okay, I found my card, can I put it back in the app?
+- Can I reactivate a card?
+- I would like to reactivate a card and wondered if that could be done?
+- I got my card now, how do I make it show up in the app?
+- How do I link an existing card?
+- How do I link a new card in the app?
+- The card I thought was lost was just in my jacket, so can I reactivate it since I found it this morning?
+- I already have a card and want to link it
+- Can you please reactivate my card?
+- Where do I go to add a new card?
+- I want my card I just received to show up in the app. How do I do that?
+- I received my card, how do I get it to show in the app?
+- If I have a credit card with you how I get set up to link to it?
+- How do I add my new card?
+- I want to reactivate my card, I thought I had lost it but found it again this morning.
+- I need a card reactivation, I had reported my card lost but I ran across it in my jacket.
+- My card is no longer lost. How do I enter it back into the app?
+- I want to reactivate my card, I thought I had lost it but found it again in my jacket.
+- May I reactivate my card? I previously reported it lost, but have now found it safe and sound.
+- How do I reactivate a card I thought I lost?
+- Help me figure out how to link the new card.
+- I found my lost card. Am I still able to use it?
+- Will I need a new card or can I put my old card back into the app?
+- Is there a way to link the card i just got?
+- How do I add a new card?
+- I want to reactivate my card, I found it after thinking it was lost.
+- Can I put my old card back in the app?
+- I got a new card, how do I link it?
+- I found the card I thought I lost this morning. Can I reactivate this card?
+- How do i go about linking a new card?
+- how do i get the card linked
+- I have one of your cards, but I don't know how to link it.
+- how do I link an old card?
+- I received my card. How do I link it to the app?
+- Now that I have my card, how do I connect it to the app?
+- How do I add the card I just received to show up in the app?
+- I want to reactivate my card, I thought I had lost it but I found it.
+- What do I need to do to link my new card for my account?
+- Can I add a card to back into the app?
+- I want to link my new card. Can you help?
+- What is the process to link the new card?
+- I found my card, am I able to put it back into the app?
+- I have found my lost or stolen card, would I still have to activate the new card that was sent to me through the mail in order to access my account?
+- Where can I link a new card?
+- How do I add a card on to the app?
+- I found my card in my jacket this morning, so can I reactivate it?
+- I've obtained the card, how do I enable it on the app?
+- I need to find the card I received in the app.
+- How do I get my card on the app?
+- In the app, how can I make it show the new card that arrived?
+- How do I link my new card?
+- Can I activate a card in the app?
+- I want to link to my card card with you, how?
+- I would like to link my card to my account.
+- I thought I lost my card so I cancelled it, but recently I found it in my jacket and I would like to re-establish the card.
+- How can I link the new card?
+- I got a new card and can't find where to link it.
+- Hey, I have my card, how do I get it to show in the app?
+- Where in the app do I go to make my new card show up?
+- Where do I scan my card?
+- Can I reactivate my card? I reported it lost and found it this morning in my jacket.
+- Can I link my card I previously received?
+- I want to reactivate my card, I thought I had lost it but found it again in my jacket this morning.
+- I'd lke my card reactivated, I was thinking it was misplaced but I discovered when I woke up that I had left it in my coat.
+- You sent me a card and now I want to link it.
+- How do I add my new card to the app?
+- Can I add a card back to the app?
+- What if I want to add a card I already have to the app?
+- I recently reported my card as missing/lost, and I just found it. Can I still use it?
+- Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.
+- Is there a way to link cards if I have one of yours?
+- If my card was lost or stolen can I re-link it?
+- How do I link a new card to an existing one?
+- How do I link a new payment card?
+- I would like to reactivate my card that I previously reported lost. I located the card this morning.
+- Card has been received, how will it show up on the app?
+- Can I re-link a lost card with the app?
+- What do I do to link my new card?
+- Is it possible to link a new card?
+- I deactivated my card but would like to reactivate it.
+- I found my card that I thought I had lost, I need to reactive it, please help.
+- can I link a card of yours I already have?
+- Can I put my found card back into the app on my phone?
+- My card arrived but I need to make it work in the app, how do I do that?
+- I found the card that I thought I lost, and I would like to reactivate it.
+- I found my card again. Can I put it back into the app?
+- I need some help linking my new card.
+- help me link my card
+- How do I link my card in the app.
+- How do I get my card into the app?
+- I found my card! Can I link it back into the app?
+- How do I reactivate my card?
+- Where do I go to get my new card linked?
+- I thought I lost my card but I found it today, so I would like to reactivate it.
+- How do I link the new card that I just got from you guys?
+- How can I add a new card?
+- Can you tell me how to get my card on the app?
+- Is it possible to reactivate the card I thought I lost but found this morning in my jacket?
+- How do I make my card appear on the app?
+- How do I link the new card?
+- Where in the app do I link a new card?
+- How do I add my card to the app once I get it?
+- Can I link your physical card
+- How do I activate and link my new card?
+- I got a card, how do I get it in the app?
+- I received my new card.  Where is it in the app?
+- I found my card, how can I use it again?
+- I just received a new card, where do I go to link it to my account?
+- found card, how to put it back in app
+- How do I see my card in the app?
+- The card I thought I lost was in my jacket pocket this morning, so can I reactivate that?
+- I don't see my card anywhere in the app.
+- I received my card, how do I get it to work in the app?
+- What do I do if I already had a card with you guys?
+- if i found a lost card can i put it back in app
+- I have a card that was deactivated can I reactivate it?
+- My new card isn't in my app, how do I get it in there?
+- Help me access the card I already got so I can information from it.
+## intent: card_not_working- I can't use my card because it is not working.
+- I can't seem to be able to use my card
+- My card isn't working at all, I need assistance. It's really frustrating.
+- Can you tell me what the problem with my card is? It was declined at a restaurant today.
+- How do I fix a broken card?
+- My card was working but now it doesn't.
+- I cannot seem to use my card.
+- I think my card is broke it's not working anymore
+- I have not been able to use this card.
+- What do I do if i accidentally broke my card?
+- How come my card doesn't work anymore?
+- For a week now, I have tried to use my card and it is still not working.
+- My actual card isn't functioning.
+- I can't get the card itself to work.
+- What should I do if my card doesn't work?
+- Why won't my card work.
+- My card will not work
+- My card is not working.
+- HOW LONG THE CARD VALIDITY
+- My card seems to not be working at all.
+- My card gets rejected when I try to use it
+- I am unable to use my card for some reason.
+- Why can't I use my card?
+- I think my card is broke?
+- What do I do?  My card is broken.
+- My Netflix subscription says that there is an issue with my card information, but I thought everything was fine. Why would it be declined?
+- My card was declined at a restaurant today and I don't know what the problem is.
+- WHAT IS THE REASON FOR THAT
+- My card is not working when I try to use it.
+- How do I check security settings on my card?
+- My card isn't working at all. What happened?
+- Today I was out eating and my card was declined. Why's that?
+- What are ways to test why my card might not be working?
+- Currently my card is broken.
+- My card won't work at all for anything.
+- How do I fix my card if it is broken?
+- Why doesn't my card work for any transactions?
+- I tried using my card, but it doesn't work.
+- My card hasn't been working for even small transactions today.
+- What do I do if the machine rejects my card?
+- Something's wrong my card won't work.
+- I tried to use my card today in the restaurant but it didn't work and just got declined. What's wrong?
+- Suddenly, my card won't work.
+- My card hasn't been working when I try to use it.
+- My physical card is not working
+- 
+I can't seem to be able to use my card
+
+
+
+- Why is my physical card not working?
+- Help.  My card is broken.
+- I am unable to use my card.
+- No transactions are being accepted, what's wrong with my card?
+- Is my card frozen?
+- My card was declined at a restaurant today and I am not sure why.
+- What do I do now that I can't use this card?
+- My card doesn't seem to work anymore
+- Out of the blue, my card stopped working.
+- I can't seem to use my card. Can you help?
+- How do I re-order a damaged card?
+- Why is my card not working anymore?
+- I can't use my card for anything
+- What's wrong with my card? The clerk at the grocery store said it was declined.
+- What should I do if I can't use my card?
+- Can I use app to reset PIN attempts?
+- Please help.  The card won't work.
+- I wasn't able to use my card today when I went out for lunch. Wondering why that is?
+- My card doesn't seem to work.
+- Currently I can't get my card to work.
+- WHAT IS THE MAIN REASON OF THIS PROBLEM
+- How do I get my card to work?
+- What can I do to make my physical card work?
+- Can you tell me why I can't make any transactions?
+- There is something wrong with my card. Tried to use it a few times today in different places and it just didn't work. The transactions I tried to make were really small so not sure what's going on
+- Can you tell me whats going on with my card it seems to be not working?
+- How do I check security settings using the app?
+- I tried using my card at multiple vendors and now it's not working.
+- Can you help me with my card, I think it's broke.
+- The card is non-functional.
+- I haven't been able to complete any transactions on my card today. Do you know what's wrong?
+- Today I used my card at a restaurant and it was declined. Why?
+- Did you deactivate my card it's not working anymore
+- Need help to get my card to work.
+- Why isn't my card working anymore?
+- Why won't my card work anymore?
+- Why won't the machine accept my card anymore?
+- When I was in a restaurant today my card was declined and payment wouldn't go through and I need help. Can you fix this?
+- What to do if my physical card is not working?
+- My card stopped working after multiple transactions. Why?
+- Why won't my card accept any transactions?
+- I think my card is broken or something. I tried using it and it wouldn't go through, please help.
+- My card is broken
+- I tried to purchase airline tickets online this morning and my card information isn't working. Is there something going on with my account?
+- My card no longer works.
+- I seem to be unable to make any transactions.
+- I can't get my actual card to work
+- My card doesn't work when I use it.
+- What do I do if my card gets broken?
+- I am having problems with my physical card.
+- How can I get my card to work?
+- I need help with understanding why my card is not working.
+- Please help me!  My physical card isn't working right.
+- My card stopped working. How do I check if there is a freeze on it?
+- I don't know what's wrong with my card, but it has not worked at multiple places today.
+- I need clarity on why my card is not working.
+- My card won't physically work.
+- What's going on? My card wont accept any transactions.
+- My card don't work.
+- My card won't work right now.
+- How can it be that my Card is not functioning anymore?
+- What's going on with my card? I've tried multiple times and it never goes through.
+- HOW LONG TO TAKE THE TIME TO SOLVE
+- What do I do if my card is not working?
+- What should I do if my physical card isn't working?
+- The card that I have isn't working. This is the physical card.
+## intent: card_payment_fee_charged- There was a fee charged when I paid with my card.
+- I received a fee I should not have.
+- Why am I being a charged for using my card?
+- Tell me why there is a fee for a card payment.
+- I don't understand why I'm being charged for using my card.
+- I paid with my card so so why was I charged a transaction fee?
+- I shouldn't have been charged but I see a fee, why?
+- i made a payment with my card and was charged a fee, why would you do that
+- A fee came along with me paying with card
+- I had to pay a fee when buying items with my card.
+- Why is there a fee when I thought there would be no fees?
+- Why are there fees for using a card?
+- I had to pay money for paying with my card.
+- I'm going on holiday to France for 6 weeks with my family and the cat, Fluffy.  I just purchased €10,000 from a currency exchange to ensure we don't run short but there appears to be a fee.  What is this for?
+- What are the reasons to be charged a fee on card payments?
+- I paid with card and was charged a fee that shouldn't be there!
+- Why was I charged an extra fee when paying with card?
+- I noticed a new fee on my account. I didn't know there were fees for these payments. What is the policy?
+- I don't understand why I was charged an additional fee for this service. Can you clarify?
+- Why is there a fee for using my card?
+- Why was my transaction charged an extra fee when paying with my card?
+- Where can I find out the fee structure for my account? I have been charged fees for some transactions, but not for other ones. I can't find a pattern in these fees.
+- On a card payment, why is there a fee?
+- Why did I get charged a fee for my card payment?
+- Why are you charging me fees for using my card?
+- What is the extra fee that showed up on my card?
+- Why was I charged a fee for using my card
+- Let me know when I get charged extra for payments. I saw on the app a fee I wasn't forewarned about.
+- I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?
+- I got charged a service fee on my account. Can it be waived since I didn't know about it before?
+- I think a fee was applied for paying with a card.
+- I'm being charged for using my card!
+- I bought something with my card and I was charged a fee
+- I received an extra charge for using the card. Why?
+- Can you explain why my payment was charged a fee?
+- Is there a fee for paying by card?
+- Who charged me a fee for paying by card?
+- I have a fee showing from last time I used my card.
+- Why is this fee being charged to me after using my card?
+- Why wasn't it obvious that you charge for payments? If you put the fees in an easy to read format, this could have been avoided.
+- Why am I being charged fees on some transactions but not on others? What am I missing here? I cannot find where to see the fee structure on my account. Help!
+- I payed with the card and there was an extra fee?
+- Is it normal to be charged an extra fee when paying with my card?
+- Why was there a fee for paying by card?
+- How did the extra charge on my card come in effect?
+- Please tell me why I was charged additionally when I used the card.
+- I made a purchase with my card and I was charged a fee for using it
+- I was made to pay a fee for making a transaction with card.
+- Why, when paying with the card, was I charged an extra fee?
+- I have never been charged a card payment fee before. Why did this change?
+- What can i pay with out  fees
+- Why and I being charged this fee?
+- Why was I charged a fee? I thought shopping was free?
+- There was an extra charge when I used my card
+- What is this fee for card payment?
+- I saw a fee on my app from one of my payments and I wasn't sure where it came from. Is there a way you can tell me when there's an additional fee for my payments?
+- Why was I charged for payments? You didn't warn me about additional fees.
+- i have used my card online before and wasn't charged, why am i charged now
+- I paid with my card and got charged an extra fee, what's up with that?
+- I used my card and there was a fee
+- I am tired of getting charged fees, and I have no idea why, please let me know what/when you charge fees for.
+- Why am I getting a fee on a card payment?
+- Hi, I am new to this. Are there any additional fees or charges that I should be aware of? I was looking through the app and I thought I saw something in regards to fee-free allowances.
+- I noticed that i got charged extra for using the card.
+- I paid with a card and there is an extra charge. Why?
+- Can you explain why I am now getting charged a fee for using my card?
+- There are multiple instances where you added a fee to the payment, as well as some where you didn't. Do you have an outline of when a fee will be added?
+- I have been charged a fee that I didn't know about. Why have you charged me extra for card payments?
+- I got a fee when paying with my card
+- why is there a fee for a payment on my card?
+- When using my card I was charged a fee for doing so, why?
+- What was I charged a fee for card payment?
+- What is this extra fee?
+- Why did I have to pay extra because I paid with my card?
+- I want to see what this fee is on my card payment.
+- Let me know when you charge extra for payments please. I just checked the app earlier when I saw that there was an additional fee on one of the payments that I wasn't warned about before.
+- how do i avoid charges in the future
+- An extra fee has been added to my card payment is this correct?
+- Why was there an extra charge because I used my card to pay?
+- Why do I have to pay extra for using my card?
+- Unbeknownst to me, there was an additional charge on my prior transaction. A notification of sorts should be required and explained before future payments are made.
+- I paid with my card and was charged extra
+- My account was charged a fee. When did you start charging extra for card payments?
+- Explain the extra fee on my card when paying.
+- I was charged and shouldn't have been charged when using my card!
+- I have a fee and I don't know why
+- I was mistakenly charged a fee for using my card.
+- tell me why I was charged more with my card?
+- My card is showing a fee from when I used it, but I thought this card was supposed to be fee free?
+- There was an extra fee when I paid with the card.
+- I think I was wrongly charged in a recent transaction when I used my card.
+- I have been charged a fee, I didn't know about this fee before! When do you charge extra for card payments?
+- I was spending cash with my card and got a fee.
+- What are these fees i am paying?
+- Why have I been charged a fee for card payment?
+- How come I was charged an extra fee when paying with the card?
+- Why is there a charged fee for debit or credit card payment?
+- Am I getting charged for making a payment?
+- Why do some of my payments have fees?  I don't understand.
+- Why did I have to pay an additional amount when using my card to pay?
+- I paid with my card and I was charged a fee
+- There was a charge applied when I used my card.
+- I was charged a hidden fee when I paid with card.
+- Why does it cost more to pay with my card?
+- Is there a place to check for fee for payments? I feel like I'm getting charged too much at times.
+- I need to be made aware when I am being charged an extra amount for payments please. I looked over the app earlier and noticed an additional feel related to one of the payments. I was not warned about this before.
+- Why was I charged extra when paying with card?
+- Why am I charged a fee when using my debit or credit card?
+- I am getting charged fees on some payments.  Please help me understand, where are these fees disclosed?
+- Why was the price higher when I paid with my card?
+- I just made an order and noticed an extra fee. Why have you charged me this without informing me?
+- I didn't know I was going to get charged to use my card.
+- I have been charged an extra fee when buying from your store. Why is this?
+- What is this extra fee that I got when I used my card to pay?
+- Was I charged extra for using my card?
+- Let me know when applying extra charges for payments. I just checked the app and saw a fee that I wasn't warned about.
+- Why was I charged an additional fee when paying with card?
+- Why did I get charged extra?
+- I paid with card and I was charged a fee
+- I made a purchase but never expected to see a fee charged for the transaction.
+- I was charged for using my card?
+- My card was charged more than expected.
+- Where can I check to see if there will be a fee added to my payment? Are there specific instances that will result in a fee added?
+- Why have i been charged a fee for using my card?
+- Why was I charged extra using my card?
+- How was I charged extra when I used my card to pay?
+- When do i get charged a fee for using the card?
+- I see I was charged extra when I used the card.  I am not sure why, please tell me why.
+- Why was I charged a fee for my card payment?
+- Why was I charged an extra fee when using the card?
+- Let me know when you charge for payments. I just checked the app and saw a fee that I wasn't warned about.
+- What is the charge for paying with my card?
+- I paid with my card and ended up being charged a fee.
+- Why is there a fee on a card payment?
+- I was unaware of the additional charge that was added onto my previous payment. A notification of extra charges would be appreciated in the future.
+- I don't think I should have been charged a fee to use my card.
+- A fee that shouldn't be there is there after using my card!
+- How do I see what fees I am supposed to be charged on my account? I've noticed fees on some transactions, but not on others. This is very confusing and I cannot find a pattern to what I am being charged?
+- Why am I getting charged more for using my card?
+- I see a fee that I think was charged because I paid by card.
+- What are the fees imposed when I make a transaction?
+- What was the extra charge for using my card?
+- Why was a fee added to my bill when I used my card?
+- Please tell my why I was charged a fee for using my card?
+- How can I check how much free spending I have left? I have some big purchases coming up and want to know where I can look for any info.
+- I was charged a fee when buying stuff with my card.
+- I was charged an additional amount of money for making a purchase with my card
+- What is the fee charged for using my card?
+- I just saw a fee on my account. When do these get charged?
+- Is it normal to get charged extra when i use my card?
+- This fee shouldn't be there after I paid with a card.
+- Why am I charged an extra fee on my card?
+- Why did I get charged more for using my card?
+- I recently bought an item using my card and I was charged an extra fee why is this?
+- I am angry that I got charged for using my card.
+- I wanted to know why i got an additional fee when i use my card.
+- Is there a fee for making a payment? If so, let me know why.
+- Please tell me why I would have to pay a fee for a recent payment. Thanks.
+- Why was I charged a fee for debit or credit card payment?
+- Why was an extra charge added when I used my card?
+- Why have I been charged a small fee to use my card?
+- I was charged an extra fee for a card payment. I was unaware of these fees beforehand.
+- Why is there a fee associated with card use?
+- What is this fee showing up in my account for?
+- I got charged for with a fee for paying with my card.
+- Why am I being charged a fee on a card payment?
+- Is there a  way to  get around fees
+- I noticed an extra fee when I paid with my card.
+- You advertise no fee when paying with a card then my statement shows a fee.
+- There was an extra fee when I paid with my card, why was i charged this extra fee?
+- Why was there an additional fee on the payment I just made? I don't usually have additional fees applied to my payments.
+- what is this extra charge with my purchase?
+- Hello! I randomly got charged an extra fee today as i was shopping online and i have no idea why! Are there extra fees for card payments? Or am i missing something here?
+- Please explain the extra fee when I paid with the card.
+- When do you charge fees on accounts? I just saw a charge on my statement.
+- After I used my card I saw I was charged a fee for using it
+- Is there an allowance on cards?
+- Why am I being charged a hidden fee?
+- Can you explain why I was charged extra when I used the card?
+- Why did I get charged a fee on my card?
+- Do you have charges now when you pay with a card?
+- What is the extra fee that was added when I used the card?
+- Why am I charged a fee for using my card on some purchases?
+- Why am I being charged a fee for using my card? If there is some print out of places that charge me can you please send me that?
+- How can I tell if there will be a fee added to my payment or not?
+- You promised no fees but now I've got one. What the hell!?
+- How do I know which payments I make will have additional fees? Where can I find this information online?
+## intent: card_payment_not_recognised- There's a payment with my card that I didn't perform. I don't know that name shown.
+- My statement indicates I made a payment to an unfamiliar merchant.
+- There's a payment with my card that I definitely didn't do myself, never seen that name before.
+- Help! In the app there is a payment that I don't remember.
+- I don't understand where this charge came from.
+- there is a charge i dont recognize
+- I need to figure out what these charges are on my account. They've been coming out for a couple of days. Can i get all of this money back? Also, I need to freeze my card.
+- Someone might have access to my card!  There are some strange payments showing up on my account.  What do I do?
+- There are a couple payments with my card shown in the app that i really didn't make myself. What's going on with this, does someone has access to my card?!
+- I'm using the app and I noticed a payment that I didn't make.
+- A strange card payment, I do not recognize it.
+- They is a payment I don't recognize on my statement.
+- I have an unusual payment in my statement
+- I do not recognize the card payment.
+- Hi something is going on with the app.  I see some payments I didn't make?
+- If I see a payment in the app that I don't recognize, what should I do?
+- I do not recognise the card payment.
+- There are a couple payments with my card shown in the app that i really didn't make myself. What's happenning with this, does someone has access to my card?!
+- Just today there was a purchase on my card that wasn't done by me. Can this be reversed and my card be frozen? I can't have this continue!
+- I need some help now please! There are some transactions on my account that I do not remember purchasing. Can they be reversed? Can you please cancel or freeze my card so I don't keep getting charged?!
+- my statement contains an unknown payment
+- I don't recognize what this payment on my statement would be for.
+- There has been a payment  in the App that has not be done by me.
+- I don't recognize a purchase that was made with my card.
+- I'm checking the app and I see a payment that's not mine.
+- I have a charge for something I didn't buy.
+- A payment on my statement is wrong.
+- There's a payment that isn't mine on my app
+- What is this strange payment in my account?
+- I'm not sure where this charge came from.
+- I looked at my statement and found a payment I and found a mistake.
+- A payment in my account was made by someone I don't know
+- I don't recognize this payment on my app, I am sure I didn't spend any money there.
+- There are a couple of payments with my card shown in the app that in reality I didn't make. Maybe someone has access to my card?Can you check whats the issue ?
+- There is payment showing that I didn't do.
+- Payment I didn't do.
+- Why is there a random payment in my statement?
+- Hi, there is a suspicious payment from my card. I definitely do not know who this is or who could have made this payment.
+- A payment I didn't do shows in my app
+- There is  a charge I don't recognize.
+- I'm noticing a payment/purchase at a company that I don't recognise.
+- There seems to be a couple of payments listed in the app I know weren't made by me. Is there a possibility someone has access to my card? Can you find out what's going on?
+- I need to freeze my card as soon as possible. I just checked my account and saw that there have been several payments that I don't recognize over the course of a few days. Can we investigate and get my money back?
+- There are some charges that I don't recognize.  It happened days ago.  Can I get these charges back?  Should I cancel my card?
+- Please help.  There is a payment in the app that isn't mine.
+- I am seeing in the App a payment that its not mine
+- There's a payment in the app I don't recognize.
+- Hello, i just checked my statement and there seems to be a payment from my card that I have never seen before.
+- There is a card payment I'm not familiar with.
+- There is a strange payment on my card and I don't know what to do.
+- Is it possible someone has access to my card? I noticed that there are a couple of payments in the app I'm sure I did not make. Can you find out what's going on here?
+- There are some card payments that I haven't done myself. What is going on with my card and does somebody else have access to my card?
+- I have a payment in my statement that is off
+- I did not do this payment
+- I've never been to that store.  That's a fraudulent charge.
+- There are charges on my card from the past few day I am pretty sure I didnt make, can you please freeze it for me? How do I get my money returned since it wasnt me?
+- I have a payment I didnt make on my account
+- There were a couple of payments that I have noticed on my account with my card that I didn't make. Is it possible that somebody else has my card information?
+- There is an unauthorized payment in my statement.
+- There are a couple payments with my card shown in the app that i really make myself. What's going on with this, maybe someone has access to my card?!
+- I don't recognize this payment at all!  Help!
+- There is a record of payment I never submitted on the app.
+- I just looked over my statement and I don't recognize the name of a card payment.
+- I didn't make a payment at this business.
+- There is a payment on my card that I do not recognize.  I've never seen the name on the transaction before.
+- Why do I have a strange payment on my statement?
+- i didnt do this charge
+- I did not charge my account for that transaction.  That's an error.
+- There is a payment that is not mine in the App.
+- I see an unfamiliar payment on my statement.
+- Why is this payment on my app
+- There is a payment I don't recognize
+- This card payment isn't is recognition.
+- why do I have an unknown payment?
+- Payment I did not make.
+- I just saw some charges on my card from the past days that I dont recognize, I need to freeze the card asap! Will I be able to get my money back?
+- There are a couple of payments with my card shown in the app that I really didn't make myself. What's going on with this?
+- Why is there a payment I didn't do in my app?
+- I have a payment that I didn't make.
+- The app is showing a payment I never made.
+- I checked the app and there is a payment that I don't recognize.
+- How do I find out how or where this transaction on my account came from?
+- I need to figure out who has access to my card there are some payments I didn't make that are showing on the app.  Could you please help?
+- There is a strange payment on my card.
+- I've got charges on my account I did not authorize. Can I get this money back from the last couple of days that it's been coming out? I also need to freeze my card.
+- There is a payment made with my card that I don't recognize at all.
+- I saw a payment come out of my account for a merchant I don't remember.
+- There's a payment with my card that I definitely didn't create. I don't know anyone by that name.
+- The App shows a fraudulent payment made on my account.
+- There's a payment in my history I don't recognize
+- There is a payment on my card that I do not recognize.
+- My app shows a payment I didn't make
+- I don't know if I made this payment on my card.
+- After looking at the app I noticed a couple of payments I know I did not make. Is it possible someone has accessed my card? What is actually going on?
+- I do not recongize a payment in my account.
+- A payment shows up on the app that I never made.
+- I swear that there are 2 payments on the app that I didn't make.  Could my card me stolen?  Please advise what I should do.
+- Is there any way to know how the transaction got on my account?
+- I did not make this payment that I see in the App.
+- I have a card payment I didn't make
+- i disagree with a charge
+- I didn't make this payment!
+- There is a payment in the app I did not make
+- There is a vendor name I don't recognize on a payment from my account. I don't think I made this payment.
+- I don't think I made this payment that is showing up
+- I think there's a purchase at a store that I didn't go to.
+- Have a payment that I haven't done.
+- There was a purchase on my card recently to a name that I don't recognize at all. What can be done about this? I need my money back.
+- One of my card payments, I don't recognise the name of the merchant.
+- Hello, I noticed there is a payment from my card to a business that I am not familiar with. I definitely did not make this payment.
+- I do not recognise this card payment.
+- I have a card payment that I don't recognize. What should I do?
+- There are a couple payments with my card shown that I'm not responsible for. What is going on? Maybe someone has access to my account.
+- There is a payment with my card which i definitely did not do.
+- My app is displaying a payment I didn't make
+- I just checked my account on the App and there is a payment on there that I did not make.
+- Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from.
+- In the App I see a payment that is not mine.
+- There is a payment with my card which i definitely did not make by me .Never seen that it before.
+- I didn't make this payment and it's on my app
+- Why is there an uknown charge showing on my account?
+- I think that there is a payment on my card that I did not authorize.  I don't recognize the name attached to the transaction.
+- I don't think I made this transaction on my statement
+- There is a weird payment in my statement.
+- A random charge got added to my card
+- I need to freeze my card. There are charges on there that i did not authorize. They've been coming out for a couple of days. Can i get this money back?
+- I see a strange payment in my account.
+- where is my unknown payment from?
+- I have just read my statement and there is a payment I don't recognise.
+- There's a card payment I didn't make
+- There are a couple payments with my card displayed in the app which I didn't make. What is happening? Maybe someone has access to my card.
+- I'm worried that my card has been compromised because I see a payment that I didn't make.
+- I didn't do a payment and I have it now.
+- how do i dispute a payment I didnt make
+- There is a payment in the app that I did not approve
+- I don't recognize a charge on my statement.
+- There is a strange card payment I don't recognise.
+- I believe there is a mistake because a payment I didn't make shows in my app.
+- There are a couple payments with my card in the app I see that I didn't create. What is happening? Maybe someone gained access to my account.
+- I'm not recognizing the card payment.
+- There's a card payment with a name I don't recognize
+- There is a payment done with my card which i definitely did not do.Never seen that name before.
+- Why is there a payment I didn't do?
+- Someone else accessed my account and made a payment.
+- I have an odd payment in my statement
+- There is a fraudulent payment!
+- Why is there an unknown card payment?
+- I don't recognize this payment
+- I need to know where this charge is coming from?
+- I see a payment on my statement for  a place I didn't make a purchase at.
+- There is an odd payment in my statement
+- There are a few payments in the app that I didn't make! Does someone else have my card?  What should I do?
+- I need help with some transactions in my account that I dont recognize or remember purchasing. Im not sure if the name is just different or what. Should my card be put on hold while the issue gets figured out to be safe or is it ok?
+- I have a confusing payment appear on my statement and I don't recognise it!
+- My statement has a payment that I do not recall making
+- I think my card is being used by someone else to make purchases that I didn't authorize! I checked my account and see that there have been quite a few purchases over the last two days that I have no idea where they came from. We need to freeze my card now! And I need to find a way to get my money back.
+- What is this card payment, I do not recognize it.
+- I didn't make a payment that shows in my app.
+- What do I do if I see a transaction on my card that I don't recall making?
+- There's a payment in the app that I didn't authorize.
+- I have a charge I did not make.
+- on my statement there is a payment that I don't recognise
+- I need to cancel my card.  There are a few charges from a couple days ago that I didn't make.  Can I get credit for these charges?
+- It is listed in my app that I made a payment which I did not actually make
+- i dont recognize a charge on my card
+- There are a couple of payments with my card shown in the app that I really didn't make myself. Why is it happened?
+- A payment that I didn't make appears in my app.
+- There is a card payment that I'm not recognizing.
+## intent: card_payment_wrong_exchange_rate- Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?
+- Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?
+- I think the currency exchange that's been applied is wrong.
+- The exchange rate I was charged for a purchase was not right.
+- Can you please explain why the exchange rate for the item I bought is wrong?
+- I think something went wrong with my exchange between Russian Ruble and UK pounds. I was overcharged during the swap.
+- My payment has an incorrect exchange rate.
+- my exchange rate looks wrong for my last payment
+- The exchange rate you are using is bad.This can't be the official interbank exchange rate.
+- I was charged the wing amount for an item.
+- the exchange rate on my payment was wrong
+- Why is the exchange rate terrible?  That can't be close to the actual interbank rate.
+- An incorrect exchange rate was applied to an item I bought.
+- The exchange rate was incorrect for an item I bought.
+- The exchange rate on my payment doesn't look right
+- I just saw the exchange rate you use, but it's so bad that I can't believe that it's the official interbank exchange rate! Is this truly the official interbank exchange rate?
+- This exchange rate you use is awful! Please tell me this is a mistake and not the official interbank exchange rate!
+- After purchasing an item I noticed the exchange rate was incorrect.
+- The amount of exchange was not correct for the item i bought.
+- The exchange rate from my card payment isn't right.
+- My exchange rate isn't correct.
+- Why was the exchange rate so wrong when I bought something!
+- My exchange rate was wrong for an Item I bought!
+- I was using a foreign currecy to make a payment and the applied the wrong rate.
+- The exchange rate was incorrect for this item I bought.
+- I purchased something overseas and the incorrect exchange rate was applied.
+- The exchange rate is incorrect for my payment.
+- The item i bought exchanged rate was incorrect.
+- I'm on holiday and I noticed a different amount for exchange rate.  Can you explain?
+- I bought something in another country but the exchange rate is wrong
+- I bought an item and the exchange rate was wrong.
+- Exchange rate for my card payment is wrong
+- the exchange rate at which my card payment is at is wrong
+- There was a problem with the exchange rate on a purchase.
+- I recently purchased something, and the exchange rate was wrong.
+- What if there is an error on the exchange rate?
+- Why is my exchange rate wrong?
+- Please check my payment from last Saturday as I feel I have been overcharged on the exchange rate.  Thank you.
+- I used foreign currency to buy something and I think the rate applied is incorrect.
+- This exchange rate on my purchase is wrong.
+- Why is your exchange rate so bad?
+- The exchange rate looks wrong on a holiday purchase
+- I purchased something abroad, and the exchange rate that was applied was wrong.
+- I bought something and I take issue with the exchange rate applied.
+- I think there has been a mistake on my exchange rate for this purchase.
+- You did not give me the correct exchange rate for an item that I bought.
+- I checked on google and the exchange rate you are using is really bad. Can you update it?
+- I seem to have been charged to much for my holiday purchases, the exchange rate is wrong.
+- In regards to my card payment, the exchange rate is incorrect.
+- I bough an item and the exchange rate was incorrect.
+- Why did you charge me more for my purchase? It was a foreign currency and you didn't offer market rate
+- I question today's exchange rate for rubles into pounds. I was hoping for a better return.
+- I feel as though I have been over charged for the exchange rate on my payment on last Saturday.
+- My currency rate is inaccurate.
+- The currency exchange rate was wrong for a purchase I made.
+- I purchased something abroad and the incorrect exchange rate was applied.
+- Your exchange rate was off.  I was charged extra on my payment that I made last Saturday.
+- I was charged the wrong exchange rate on a purchase
+- Can you change the rate for the item I bought in a different currency as it is wrong?
+- The currency exchange for my purchase in foreign currency is incorrect.
+- I noticed the currency exchange rate was incorrect after paying for something in a foreign country.
+- My foreign currency exchange has been applied incorrectly.
+- Why isn't my purchase exchange rate correct?
+- I noticed that the exchange rate applied to a recent purchase I made abroad was incorrect.
+- I purchased something while traveling, and the exchange rate applied was wrong.
+- Why is the exchange rate different on my recent purchase?
+- The fee charged when I changed rubles into British pounds was too much.
+- I wasn't charged the correct exchange rate for an item I purchased.
+- Does the fee for exchange change?
+- The rate applied to my purchase in a foreign currency was wrong.
+- I bought something while traveling, and the exchange rate was wrong.
+- something is wrong with my exchange rate charge
+- Seems like the exchange rate for my payment last Saturday was wrong. I was charged extra.
+- It seems that something went wrong with my exchange. I changed Russian Ruble into UK pounds but have been charged entirely too much!
+- I bought an item then noticed the exchange rate was wrong.
+- The exchange rate applied is wrong for my international purchase.
+- My card payment had the wrong exchange rate
+- They used the wrong rate when I made a purchase with foreign currency.
+- Does the exchange rate change each day for purchases? There is a different rate on my purchase.
+- It seems that the rate I got is incorrect.
+- I exchanged Russian rubles for British pounds today and got less than I expected. Was exchange rate correct?
+- Was I charged more than I should of been for a currency exchange?
+- What do i do if the exchange rate was wrong for the item i bought overseas?
+- My client was converting their Russian ruble into UK pound currency when they noticed their bill was much too high for the exchange. What happened?
+- I have been overcharged. I just changed over Russian Ruble to UK pounds and it was too much. It seems something was wrong with my exchange.
+- What is your exchange rate between UK pounds and Russian rubles for my last transaction
+- I think there was an error in your exchange rate.
+- The exchange rate was not correct for the item I bought.
+- I noticed an extra charge on the purchase that I made last Saturday on my account. Can you see if I received the correct exchange rate?
+- My exchange seems to have something wrong with it. I changed over Russian Ruble to UK pounds and it appears I was charged way more than I was supposed to be.
+- The correct exchange rate wasn't given to me for an item I purchased.
+- I bought something in another currency, but the exchange rate was incorrect.
+- the exchange rate is wrong from something I got in another country
+- The exchange rate given to me after a purchase, was incorrect
+- My card payment has the wrong exchange rate
+- I have been charged way to much so something is apparently wrong with my exchange. I changed Russian Ruble into UK pounds.
+- Why is the exchange rate different from what I expected?
+- The exchange rate you are using is really bad.This can't be the official interbank exchange rate.
+- Please check the exchange rate for my payment last Saturday. I believe I have been overcharged.
+- Why was I charged extra on my last UK pound to Russian ruble exchange?
+- The wrong exchange rate was used when I purchased an item.
+- Why was the wrong rate applied when I bought something in a different currency?
+- I bought something abroad and the exchange rate applied is wrong
+- An item I bought had the wrong exchange rate applied.
+- I think the rate that was applied to my purchase using foreign currency is wrong. Help!
+- Why was my exchange rate a different amount than usual?
+- I want to change the wrong exchange rate.
+- I recently bought something abroad but the exchange rate is incorrect. Why?
+- The exchange rate you're using is terrible - this can't be the official interbank exchange rate, can it?
+- I did not receive the correct amount for the exchange rate.
+- I guess exchange rate for my payment was not correct, as i charged extra on the last saturday.
+- The exchange rate for my payment last Saturday must be wrong because I was charged extra.
+- Are you sure this is the interbank exchange rate? This rate is really bad.
+- The exchange rate you are using is really bad. This can't possibly be the official interbank exchange rate.
+- I believe you charged me too much to exchange my money
+- I changed the currency, but why is it costing more?
+- Why was the exchange wrong for the item I purchased?
+- I made an international purchase, but the exchange rate was wrong
+- My purchase used the wrong exchange rate
+- I have been charged to much for the object I bought when abroad, the exchange rate seems to be wrong.
+- I made a purchase and was charged at the wrong foreign exchange rate.
+- I think that the exchange rate was wrong for the payment made last Saturday - I was charged extra.
+- Why is the exchange rate for my payment incorrect?
+- Your foreign exchange rate is wrong.
+- It looks like the exchange rates on my card payment are wrong
+- There's an error with the rate that is charged.
+- I bought an item at the wrong exchange rate.
+- I think the exchange rate on my card payment is incorrect.
+- I bought an item that I was charged a different exchange rate for.
+- I am not receiving the correct exchange rate on my card.
+- When I purchased a product in another country the currency exchange was incorrect.
+- The exchange rate used on your app is really bad. I'm considering closing my account because of it.
+- I think I was charged extra on my payment on last Saturday.  Maybe the exchange rate was wrong?  I'd like a refund.
+- I received the wrong exchange rate for an item i bought.
+- Are you ripping people off with the exchange rate?  It can't be that atrocious between banks.
+- I don't think the charges made when I had currency exchanged are right.
+- Why am I being charged the wrong currency exchange when I purchased something abroad?
+- The exchange rate for my card payment doesn't seem right.
+- When I bought something abroad, the exchange rate was wrong.
+- I didn't receive the correct exchange rate for an item that I bought.
+- Why is the exchange rate on my card wrong?
+- I am being charged the wrong amount on my card.
+- The exchange rate is incorrect on an item I recently purchased in a foreign country.
+- The exchange rate is incorrect for something I bought
+- My payment had a wrong exchange rate.
+- The exchange rate for my electronic payment is incorrect.
+- Why was I charged a higher exchange rate when I bought something abroad?
+- Why didn't I receive the correct exchange rate for an item that I purchased?
+- Why is the exchange rate on my card payment different than I expected?
+- My rate of exchange was wrong.
+- I recently bought something in foreign currency and I am unsure of the exchange rate. Is this rate applied correctly?
+- I purchased something abroad but the exchange rate is incorrect.
+- A foreign purchase I made has the incorrect rate applied to it.
+- When I was traveling abroad, the exchange rate was applied wrong.
+- There's an error in regards to the exchange rate for an item I bought.
+- Last Saturday, I made a payment and the exchange rate was wrong.  I was charged too much.
+- The exchange rate is bad. Are you sure this is the exchange rate?
+- I purchased an item and the exchange rate was wrong
+- Exchange rate on a purchase was incorrect
+- I'm going on a trip soon and I needed to convert my Russian ruble to UK pounds, but when I did, your company charged me above the exchange rate. Did you mess up my transaction?
+- I was charged extra. Was the exchange rate for my payment last Saturday wrong?
+- The exchange rate that was applied for an international purchase was wrong.
+- Hello, I believe there has been a mistake made on the exchange rate for my card. Could you please check the official interbank exchange rate for me?
+- Why am I being charged more on exchange with things I bought abroad?
+- I  have been charged more than I should for the presents I bought  when abroad, the problem seems to be the exchange rate.
+- I made a purchase but the exchange rate is wrong?
+- Why on earth is the exchange rate so bad?   Can I get a rate closer to the actual interbank rate?
+## intent: card_swallowed- What do I do if the ATM took my card?
+- What do I do now my credit card has been swallowed by the ATM?
+- An ATM machine didn't give me back my card.
+- My card got trapped inside an ATM, what should I do?
+- What do I do if I can't get my card out of the ATM?
+- My card got stuck in an ATM.
+- Your machine took my card. How do I get it back?
+- I can't get my card out of the ATM, what should I do now?
+- My card is stuck in the ATM?
+- I didn't get my card back from the ATM.
+- The ATM at Metro bank on High St. Kensington didn't return my card, and the bank is now closed. How do I get back a card swallowed by an ATM?
+- I need a new card because the ATM took mine.
+- The ATM stole my card!
+- How can I get my card out of the stupid ATM that ate it?
+- The ATM took my card.
+- The ATM won't give me my card back. I need it back now!
+- How do I get my card back quickly from a bank machine that it?
+- The ATM sucked my card in.
+- The ATM did not give me my card back?
+- I was getting cash and the card got stuck inside
+- What should I do since my card is trapped in the ATM?
+- what do I need to do if the ATM kept my card?
+- The ATM machine would not give my card back
+- I can't get my card out of the ATM
+- Why did the ATM take my card and keep it?
+- What are the steps to get my card back that was kept by the ATM?
+- How do I get my card out of the ATM?
+- Why did the ATM eat my card?
+- Please send a new card; the ATM ate mine.
+- The ATM didnt return my card!
+- I was removing a dollar amount from my account and now don't have access to my card.
+- A Bank ATM did not give my card back. What do I do now?
+- Why did the ATM swallow my card?
+- lost my card in atm
+- I cannot get my card out of the ATM.
+- An ATM machine didn't return my card.
+- My card is stuck inside the ATM.
+- The bank machine didn't give my card back how do I get a new one fast?
+- What should I do if the atm eats my card?
+- What do I do?  The ATM took my card!
+- The ATM kept my card?
+- Who do I talk to about the ATM swallowing my card?
+- An ATM swallowed my credit card!
+- What do I do if the ATM swallowed my card?
+- Please help, the atm swallowed my card, what do I do?
+- I have lost my credit card in the ATM!
+- how can the money machine keep my card what do i need to do?
+- How do I get a new card as your machine swallowed mine!
+- The ATM machine ate my card.
+- how to get new card after atm eats it
+- My card was eaten by the cash machine what do I do?
+- What do I do after the ATM takes my card.
+- How can I get my card out of the ATM?
+- Will you please help me get my card back?
+- The ATM ate my card; how do I get a new one?
+- How do I get my card back after the ATM swallowed it.
+- My card is stuck in an ATM machine, how do I get it back quickly?
+- atm ate my card
+- What are the steps I should take to recover my swallowed card?
+- My card is stuck inside the ATM, what am I supposed to do?
+- What should I do with my stuck ATM?
+## intent: compromised_card- I think someone is using my card without my permission!
+- What do I do if I detect fraudulent use on my car?
+- I think my account has been hacked there are charges on there I don't recognize.
+- I don't recognize some transactions.  Is someone else using it?
+- I just got an email in confirming my purchase with my card. I login to the mobile app on the card and found out there are several purchase were made without me aware of it. Evidently someone had stole my card information and made these fraudulent purchase. I need the transaction to be reverse and have my card suspended.
+- How do I stop fraud to my account?
+- card is being used by someone else
+- I think someone else is using my card.
+- Someone might be using my card that is not me.
+- There are strange transactions on my account.  What should I do if I think someone stole my details?
+- I sees some suspicious spending on my credit card that I don't recall I had made. What should I do?
+- It looks like someone besides me ordered something with my card, what should I do?
+- There are charges on my card that I haven't purchased.
+- Someone might be using my card.  What should I do?
+- I suspect someone used my card.
+- Please tell me how you can stop unauthorized payments from being made on my card since on this bill I see that this has happened. There are transactions that I never made from a place I've never been to.
+- I think that somebody is utilizing my card without my authorization!
+- There are a few transaction that I don't recognize, I think someone managed to get my card details and use it.
+
+- Someone has been using my card. There are unfamiliar transactions on there. Can you freeze the card to keep this from happening?
+- What can I do if my card details where stolen from my car? I think they used my card to buy gas.
+- I want to cancel my card. I think someone else is using it.
+- I can't be sure, but I think that someone may be using my card.
+- What should I do if I think someone is using my card without my permission?
+- I believe that someone is using my card without my knowledge!
+- There is unusual activity on my account and I believe someone took my card.
+- Someone must have found my card details as I don't recognize these transactions.
+- Should I order a new card before I freeze my original one?
+- I think that someone may be using my card, but I'm not sure,.
+- I think someone has hacked my card!
+- My card has been compromised. I see a bunch of online shopping charges that I didn't make. I need to freeze it immediately.
+- I think my card has been used by somebody else since I was never in the little town where some transactions on this bill have come from. Please stop this right away.
+- am suspicious of my card's security
+- Someone is making transactions on my account, I think they took my card information.
+- I think someone stole my card number and brought stuff in different places that I have never been to. I need to suspend any further purchase on my credit card.
+- There's a possibility that my card was compromised.
+- What should I do if I think there are unauthorized transactions?
+- How do I stop fraud to my card?
+- am afraid someone may have gained access to the info on my card.
+- My statement shows charges for things I never purchased. Were my account details stolen?
+- What should I do if someone else used my card?
+- What steps can I take if someone else is using my card?
+- Someone might have had access to my card.
+- What should I do if I think someone stole my details and used my information to make some transactions?
+- I am not sure but someone else might be using my card
+- What to do if my card has been used without my permission?
+- Someone used my card without my permission.
+- think someone is using my card with permission
+- I see some transactions that I don't recognize.  I think someone stole my details.
+- How can I tell if someone else is using my card?
+- What do I do if I believe to be a victim of credit card fraud?
+- My card info was stolen, what do I do?
+- i didnt make these transactions, i think my card details might be stolen
+- I have transactions that I don't recognize - I think someone is using my card.
+- my card details could be stolen, as i didnt make these transactions
+- What do I do if someone used my card without my permission?
+- There are transactions that I don't recognize. What do I do if I think someone is using my card?
+- Can you check about unauthorized use of my card, I think someone is using mine without my knowledge?
+- I noticed my card was used in a small town that I have never been to. Can you stop the card from being used more?
+- I froze my account, but how do I order a replacement card?
+- What do I do if I think someone has used my card?
+- My card was stolen and used to make several purchases. Please freeze my card so no one can use it.
+- There are transactions that I don't remember making, i think someone might have gotten my card details and is now using it.
+- My card information seems to have been stolen! I don't know where these transactions came from and I've never even been to the city where they were made. I need my card blocked ASAP so this person can't keep using my card.
+- My card was used without my permission, what do I do?
+- What do I do if I think someone has used my card without permission? I can see a few transactions I don't recognize.
+- Questionable transactions on my account.
+- I have some transactions on my account I did not make. Can you cancel my card and prevent further use.
+- Someone besides me might be using my card.
+- Someone hacked into my cards account.
+- How do I report fraud on my card?
+- How do I report possible fraudulent activity on my account?
+- Someone else might be using my card without my permission.
+- My card must have used my card as there are some transactions that I haven't done myself..
+- How do I order a replacement for stolen card?
+- i dont recognise some of these transactions, i think someone has my card details
+- Somebody used my card without my knowledge!
+- I think my card has been compromised in some way.
+- What should I do if I think that someone might be using me card?
+- I might be paranoid, but someone may be using my card.
+- My wallet was stolen and all my credit cards were in there.  HELP?!!?
+- There are fraudulent charges that I didn't make on my card. Can you please put in the safeguards necessary to stop this from happening anymore?
+- The card has suffered a security breach.
+- My card data has been exposed.
+- There are transactions that I did not make on my account, I think someone has my information.
+- I think someone may be using my card.
+- I didn't make these transactions. Is someone else using my card?
+## intent: declined_card_payment- I'm not sure why my card didn't work
+- My card is not working at stores.
+- Do you know why my card payment has been declined?
+- Why isn't my card working? I was pumped to use my new card but it keeps getting declined. Help please.
+- I could not use my card in a store.
+- If my card payment isn't working what do I do?
+- I'm not sure why the card payment didn't work.
+- Tell me why my card payment has been declined.
+- I was just shopping online for some tickets and the payment was declined by you.  Why has this happened?  I am certain I have the right amount of funds in my account.
+- I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?
+- What are the reasons why a card payment would be declined?
+- The card payment I attempted to make failed.
+- Why has my card been declined?
+- I went to use my new card today and the card was repeatedly declined. I would really like to use this card and need to know what to do about it.
+- I was out today looking forward to paying with my new card, but the payment just kept getting declined. This is really sad, what's going on?
+- What is the reason my payment was not accepted?
+- May monthly payment to Apple has been declined but I don't know why, they are going to re-try the payment and it must go through, can you tell me what is going on please?
+- You have declined my  payment.
+- Can you tell me why my card keeps getting declined every time I try to use it?
+- Can you tell me why my card is not working? I keep trying to use it but it keeps rejecting my payment. I am being careful and entering the info correctly but it still happens.
+- Apparently, I went out today to use my new card and was informed my payment was decline. This is really embarrassing, what happen?
+- I NEED HELP WITH MY CARD!!!!! please. It keeps getting declined when I try to use it. I have tried a few times to use it and it keeps getting rejected. I have no idea why.
+- How do I check to see why my card payment was declined?
+- Why was my card declined in a shop?
+- The payment for the card did not go through
+- My card was rejected
+- I use this card all the time so why did it get declined at the store today?
+- I couldn't pay with my card
+- Why are all my card payments being declined?
+- I couldn't pay with card in a shop
+- Why is my payment declined? It looked like everything worked ok and my account was fine.
+- My card payment failed.
+- My payment has been declined!! What's going on, I thought everything was alright and working well?
+- My latest payment was declined! What happened! I was told everything had been resolved and was back to working order again.
+- My card wasn't working in a shop
+- I'm sure I have enough money so why didn't the store accept my card?
+- Why has my payment been declined? I paid by card.
+- can you tell me why my card was declined?
+- My card didn't go through.  It doesn't make sense.  You told me that everything was ok.
+- Please explain why my payment was declined? I thought everything was good.
+- When I use my card, it says decline?
+- My card payment didn't work
+- I was just shopping and my payment was declined in a store!  It was very embarrassing, what is going on and when will it be fixed?
+- Why was my card declined?
+- I tried to make a purchase in the store but my card was declined.
+- My card payment wasn't accepted.
+- is there a reason that my payment didnt go through
+- My card payment did not go through.
+- Explain the payment that was declined!
+- Explain why my card payment wouldn't go through.
+- Why didn;t my payment work
+- My card couldn't pay in a shop.
+- My payment card was declined - could you tell me why?
+- Hi, is everything in good standing with my card? I am receiving multiple "decline" messages.
+- Why didn't my card payment work?
+- My card payment didn't go through.
+- How can a payment be declined
+- The store card reader would not accept my card.
+- Why was my payment declined? I keep trying my card but it's not working.
+- My card was declined
+- my payment was rejected
+- I was wondering why my card was declined
+- Please help me in this, as i was unable to make any payment by my new card,  it was getting declined repeatedly. I am not very happy with this incident.
+- Why did my card payment not work?
+- my card payment has been declined, do you know why?
+- My credit card has been declined.
+- Why did my card payment get declined?
+- Why won't you accept my payment? I keep trying with this card and it's not working.
+- My card payment is being declined and I've tried several times.
+- For some reason my card payment didn't work
+- Why has my card declined
+- A shop I go to didn't let me pay.
+- Why did my payment fail?
+- Can you tell me why my card payment did not work?
+- My card would not work at a shop.
+- I could not get my card to work at a shop.
+- My card payment has been declined
+- I've tried using my card multiple times and it keeps getting declined.
+- My card was refused
+- Why is it saying my card payment is declined when I made it?
+- My card failed to work when I was shopping in a store
+- why couldn't I use my card at a store?
+- My card did not work at store.
+- Why does is payment not going through? Did my account get frozen or some other issue I don't know about. What can I do to fix this problem?
+- Why was my new card declined?
+- Why do you keep declining my payment?I tried several times with this card and it is just not working.
+- Why do you keep declining my payment? I tried several times already with this card and it is just not working.
+- Why am I being declined?
+- Could you explain why my card payment did not work?
+- Hi, Today i have tried to make payment by my new card, but payment got declined many times. I am very disappointed, please look into this.
+- I don't know why my card payment did not work
+- my card was refused, why?
+- I don't understand why my payment was declined. I thought everything was ok.
+- I tried to pay with my card and it didn't work
+- Why do you keep declining my payment?I tried several times already with this card and it is just not working.
+- The card payment is declined.  Please inform me why.
+- My card payment has been declined, why?
+- Why would you decline my card?
+- My payment for my card is not working
+- Why would a card payment be declined?
+- I was so embarrassed. Why didn't my payment clear?
+- It seems like my card payment didn't work.
+- I've tried many times to make a payment, but it's not going through.  What's wrong?
+- Why has my card been declined?  whats the deal?
+- For some reason my card payment hasn't worked. what can I do to look into that?
+- Could you please tell me why my card payment didn't work?
+- my payment was rejected, do you know why?
+- My card payment doesn't work.
+- I made a card payment, but it has been declined?
+- Everything seems fine with my account, so why did it decline my payment?
+- I'm not sure why my payment has been declined? Please tell me why, I thought it was all good.
+- My payment has been declined several times.  Can you help me?
+- I had a decline on my card. Why?
+- When I tried to pay in a store my card din't work
+- I was just needing to know why my card got declined
+- My payment was declined
+- Why was the payment on my card declined?
+- I made a card payment but it didn't work. Why not?
+- I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?
+- Do you know the reason why my card payment was declined?
+- What is going on with it saying my card payment was declined?
+- I keep trying to make a payment, but it doesn't work.
+- What could the reason be that my payment card was declined?
+- My card did not go through in a shop
+- Is there an issue with my card payment as it has not gone through.
+- Why wasn't my card payment accepted?
+- I keep trying to use my card to buy some things and you keep declining it. Why? I've tried multiple times to make it go through but it won't.
+- The card payment I made didn't work.
+- I received my new card and tried using it today, just to have it show declined over and over again.  Why is this happening?
+- My card payment won't work.
+- My card payment has failed.
+- Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.
+- I just got my new card and tried using it and it was declined?
+- I know there's money in my account, why did my account decline me?
+- Why are the payments being declined on my new card?  I tried several times to use my new card to pay for my gas at the Shell station in my neighborhood.  I am very distressed about my new card not working.
+- Why would my card payment not work?
+- My card payment wasn't declined
+- Reason for my card to decline
+- Why have you declined my card payment?
+- My card was not accepted in a shop
+- I had a card payment that was declined.  Why?
+- How come my card payment has been declined?
+- I have enough money in my account, so why is my card being declined?
+- Can you please advise if there is something wrong with my card? I have had multiple rejections and do not know the reason. Thanks!
+- Card payment was declined, do you know why?
+- I've tried several times to make a payment and every time my card is declined? Could my card be locked? I don't know what to do.
+- I had a problem with my card payment, can you help?
+- I tried to used my card in a shop and the transaction was declined.
+- I was out today looking forward to paying with my new card, turns out the payment kept getting declined. This is really sad, what's going on?
+- Card payment didn't go through.
+- Please help to explain to me why my new card was declined when I tried to use it at my grocery store this morning to pay for the items I needed.  I tried three times to use it and it kept being declined.  I was very embarrassed standing there trying to buy my groceries.
+- My card payment was not successful.
+- Tell me why my card payment was declined.
+## intent: get_physical_card- I'm not sure what to do about the PIN, because I don't have one yet.
+- Is my PIN sent separably?
+- Where can I get my card PIN?
+- my pin hasn't arrived in the post! How do I cancel it or get a new one?
+- Where is the card PIN located?
+- I have my card, when whill my PIN be available?
+- I dont have a pin
+- i have yet to get my pin
+- Where is my card PIN?
+- The card PIN?
+- I do not see the card PIN anywhere?
+- My pin isn't here yet
+- Is my PIN recorded anywhere?
+- How will I know my pin number?
+- I need my PIN, where is it?
+- I haven't received my pin
+- I am not able to see the card PIN anywhere?
+- I don't know my PIN, how can I find that out?
+- Where can the pin be located?
+- How do I find my PIN?
+- Why have I not received my PIN
+- When do I get my PIN?
+- Where can I locate my card PIN?
+- Tell me about the card PIN?
+- In the app, where do I find my card PIN?
+- do i have to wait for a physical card before i get my pin
+- The card PIN is not visible anywhere?
+- I cannot see the card PIN anywhere?
+- How will I receive my PIN?
+- My card arrived but I don't know how to get my PIN.
+- Where should I look for my PIN number at?
+- Where can I locate my PIN at?
+- Where is the PIN for my card located?
+- I do not have my pin yet
+- Do I have a card PIN?
+- Where is my PIN located?
+- I can't find the PIN.
+- What can you tell me about the card PIN?
+- Where can I find my card PIN?
+- How do I find my PIN number?
+- I am yet to receive my pin.
+- i cannot find my card PIN
+- How do I set up my card PIN?
+- I cannot find my PIN.
+- How do I request the PIN?
+- I haven't received the PIN yet.
+- I signed up, but don't have a PIN. Where can I find it?
+- How is the PIN delivered?
+- Help, I don't know what the PIN is to my card?
+- I didn't get a PIN yet. What gives?
+- Where's my card PIN?
+- How do I set my physical card PIN?
+- wheres my pin
+- When will I have access to my pin number?
+- What's my pin number?
+- Where do i find my PIN?
+- When do I set up my card PIN?
+- Can you tell me how to locate my PIN?
+- Do i have to wait to get the pin or can i set up a pin
+- How do I locate my PIN now that I have my card?
+- Where is my PIN?
+- Explain the card PIN to me.
+- How do I find the PIN?
+- Will the PIN come separately?
+- Where can I find my PIN? I haven't gotten it yet.
+- Where is my pin? I don't have it yet
+- How do I know what my PIN is?
+- How long does it take for me to get my pin
+- How long do I wait for my PIN
+- still need to get card pin
+- I have not received my pin yet
+- How do I get my card PIN?
+- I havn't received my PIN yet.
+- I haven't received my PIN yet. Do I need to get it from you?
+- In regards to the PIN of the card?
+- Does the PIN come under separate cover?
+- do i need to wait to get my card before getting a pin
+- Will my pin number be sent with my card?
+- I can't find my PIN anywhere.
+- I have a question regarding the PIN of the card?
+- How do I get a PIN?
+- I haven't been sent my new pin!
+- So, the card PIN?
+- can i go into my app to find my pin
+- Is the PIN separately delivered?
+- I don't have a PIN at this point.
+- do i need to wait for my card before i get pin
+- Where do I find my card PIN?
+- I can't find the card PIN.
+- Where is the PIN number found?
+- When do I get my card PIN?
+- How is my PIN sent?
+- Is the PIN sent in another message?
+- Do you deliver the PIN separately?
+- Is my PIN the same thing as my passcode?
+- I'm looking in the App and can't find my PIN, where should I look?
+- I've been waiting ages and my PIN hasn't gotten here.
+- How do I get started when I get my card?
+- Show me where I can see the PIN?
+- How do I find my new pin?
+- can i create my own pin right away
+- how to get card pin?
+- Where do I find my PIN for my new card?
+- Can you deliver the PIN separately?
+- is my pin the same as my passcode
+- how do i get a pin for my card
+## intent: getting_spare_card- Are extra charges added for sending out additional cards?
+- I'd like to order an additional card
+- I want some extra physical cards.
+- I would like open a second card for my daughter, how can you assist me?
+- Am I gonna be charged for sending out more cards?
+- Would I have to pay anything if I need an additional card?
+- Is it possible to get a second card for my daughter?
+- Can I get a few more physical cards?
+- What's the limit on total number of cards I can have?
+- Is there a charge for sending out more cards?
+- How much does it cost to get more cards?
+- How can I create another card linked to this account?
+- May I order another card?
+- Can I order another card?
+- Can I order a second card?
+- Can I have more physical cards?
+- How many physical cards am I allowed to have?
+- I want to get few more physical cards
+- Please tell me if I'm going to be charged for sending out more cards?
+- Can I get more cards just incase?
+- Would I be able to get a second card?
+- Do you charge for sending out more cards?
+- I need a second card on this account for my daughter.
+- How can I get another card?
+- Can I have a third card?
+- I have left my card at my parents house. Can you send me a spare one please to use in the meantime?
+- I'd like to provide my daughter with a card - could I get an additional card from my account to give her?
+- What is the price for an additional card?
+- Can I get a second card for free?
+- Will I be charged if I add more cards to the account?
+- How many cards am I allowed?
+- Can my daughter also have a card issued in her name, but linked to my account?
+- I'd like to order another card
+- Can I have a supplementary card?
+- I lost my card and need a new one, will it cost me?
+- My daughter need a card from this account. Is that possible?
+- My daughter would like a card from my account?  Can I do this?
+- Are there any fees to get additional cards?
+- Can you send me more cards for my account?
+- I would like some more physical cards, what is my limit?
+- Can I have a duplicate second card?
+- I want to give a second card for this account to my daughter, would this be possible?
+- What is the procedure for me to get more cards on my account?
+- Am I permitted to have a spare card?
+- I was wondering if I could get a second card on this account? I would like my daughter to have one.
+- Do I have to pay for a second card?
+- I would like to purchase another card.
+- Is it possible to order another card?
+- I'd like to have extra cards. Will I have to pay for that?
+- How do I get a spare card?
+- How do i request more physical cards?
+- What steps do I need to get another card?
+- I would like more physical cards
+- Is there a charge for getting more cards?
+- Can I have a second card issued to another family member?
+- How do I obtain a second card?
+- How much is it to buy another card? I was hoping to buy another one.
+- Where do I order additional cards?
+- How much would an extra card cost?
+- I would like an extra card.
+- Do you send duplicate cards?
+- I would like to use one of my cards for a family member. Is that allowed?
+- Can another family member hold a card for this account in addition to mine?
+- I need another card
+- If I need an additional card, is there a fee for that?
+- I want a new card
+- Will I get charged for sending out more cards?
+- How many different cards can I have for my account?
+- I need more physical cards.
+- Am I allowed to carry an additional card?
+- Does it cost extra to send out more than one card?
+- How do I get extra physical cards?
+- Can I get spare cards?
+- Is it possible to get another card?
+- I need more physical cards than I have right now!
+- Is a new debit card free?
+- How many cards can I have?
+- If I want to send out more cards, do you charge extra for that?
+- Do you charge extra for duplicate cards?
+- I would like to get additional physical cards at this time
+- How do I receive more physical cards
+- If I want to be able to give my daughter a card for my account, would I be allowed to get one for her?
+- Would it be possible for me to get a second card?
+- I am interested in giving a second card to my daughter, how can I make this happen?
+- Is it possible for me to give my daughter a second card for this account?
+- daughter needs card, how do i add her
+- Is there any way to get another card on the same account?
+- If I need more than cards will I have to pay a fee to receive them?
+- I need a new card.
+- I'd like to get another card
+- If I get another card, what kind of fees am I looking at?
+- Will there be a charge for sending out more cards?
+- I would like to get a few more physical cards.
+- How many active cards can I have?
+- How much does it cost for additional cards?
+- What should I do if I want to get another card for someone in my family?
+- How do I order another card?
+- I'm looking to get an additional card.
+- Can I get another card?
+- I would like to get some extra cards?
+- Is it free to send out more cards?
+- Is it possible to purchase more physical cards with my account?
+- Is there a fee for sending out more cards?
+- How much is it to send out additional cards?
+- Will it cost me to get a second card?
+- How do I get another card
+- Is there a fee for sending additional cards?
+- Is it possible to have a second card?
+- I would like a second card.
+- What is the charge for sending out more cards?
+- I would like to give another card to my daughter, how can I proceed?
+- What's the process to receive a second card?
+- how is it possible to add another card to account
+- How do I go about ordering another card?
+- How do I get extra cards?
+- Do you send more than one card?
+- Are extra cards free?
+- Do you charge for sending more cards?
+- Can I have another card in addition to my first one?
+- I need a second card, can I have more than one?
+- I want a backup second card. Is this possible?
+- Physical cards are what I need more of
+- Can I have a spare card for this account please?
+- I need two cards. Is this possible?
+- Can I have more than one card?
+- I need another card for a member of my family. Is this possible? How soon can I get one?
+- Is there any way I can get more physical cards to use with my account?
+- Can I give a second card for this account to my daughter?
+- Is it possible to give a second card from my account to my daughter?
+## intent: lost_or_stolen_card- Has there been any activity on my card today?
+- I lost my wallet and all my cards were in it.
+- I'm panicking!  I lost my card!  Help!
+- I need to report a stolen card
+- How do I replace a stolen card?
+- Can you provide information for freezing my card immediately?
+- What's the phone number to freeze a card?
+- I can't find my card! Can you help?
+- Hi, I am on vacation in Spain and someone stole my bag with my phone and wallet with cards and everything. Can you block it ASAP and then I want to order a new one also ASAP.
+- Help! I lost my card!
+- My card is missing.  Please help.
+- I think that my card has been stolen!
+- My card was stolen
+- A fee shouldn't apply to me if my card was stolen.
+- My card has been stolen. I reported it with the police, but I need to report it with you as well.
+- Can you tell me the status of my new card?
+- My card has been stolen what do I do?
+- I can't find my card, it is lost.
+- My card is lost!  Please help me!
+- I believe that my card has been stolen!
+- What should I do if I think my card was stolen?
+- Can you send me a new card and block my current one. I'm in Spain and my wallet was stolen.
+- I thought I left my card at a restaurant, but they claim not to have it and now I don't have any idea where it is. I'm so worried that someone might be using it fraudulently. Is there any way to look into this?
+- My bag got stolen with all my cards. Can you please cancel my card and send a new one?
+- I think my card is stolen!
+- Help!  I fear that my card was stolen,
+- Someone stole my card!
+- Are you able to guide me to my card's location?
+- How can I report that my card was stolen? I made a police report first.
+- My card is missing!  Help!
+- My wallet was stolen, along with my cards. How do I put a freeze on my cards and order a new one?
+- Could you please freeze my card immediately?
+- i need help, i lost my card
+- What can I do if I lost my card?
+- I think that the card is stolen.  What are my next steps?
+- What do I do if my card is stolen?
+- My card is stolen.  Help!
+- I lost track of my card
+- Report stolen card
+- Help!  My card is stolen.
+- My card was lost on vacation, I don't know where it is. Can you help me take care of this immediately?
+- I have lost my card! What is my next step?
+- My card has been lost! help!
+- What do I do if my card has been lost or stolen?
+- Help Me!  I lost my card.  What should I do?
+- Someone stole my wallet with my card in it while vacationing in Spain. I really need my card blocked and a new one ordered.
+- Who can I speak with regarding a lost card?
+- My card has gone missing.
+- oh my god I lost my card! what should I do?
+- I can't find my card!  What should I do?
+- What is the first step that I should take after my card has been stolen?
+- I seem to have lost my card.
+- My card was stolen. What do I need to do?
+- Someone took my card without permission
+- I lost my card n need a new one.
+- My card has been lost / stolen
+- I misplaced my card and I dont know where the last place is where I used the card last. Can you look at my account and tell me the last place I used the card?
+- Please help me.  My card is missing.
+- I lost my card, what do I do now?
+- I need to order a new card as my other one was stolen.
+- I think someone stole my card because I can't find it.
+- What are the steps I need to do if I have a stolen card?
+- I cant find my card.
+- I think my card is lost.  What do I do?
+- What should I do if my card is stolen?
+- How do I deactivate a stolen card?
+- I want to block my card or deactivate it or something, it's been stolen and I don't want it misused. I want this handled right away.
+- Someone took my card without my permission.
+- Need help with a stolen card.
+- help, lost my card
+- What do I do if my card was stolen.
+- I think my wallet fell out on the Tube today! I realized as soon as I got to my desk. How do I cut off the card?
+- My card is missing.
+- How do I report my card as lost or stolen?
+- Is there any way for you to find my card?
+- I've lost my card. What can I do about that?
+- I left my card at a restaurant and now its missing.
+- Can you help me retrieve my card?
+- I lost my card. Can you help me?
+- What should I do?  My card has been stolen!
+- My card was stolen last night.
+- Could you assist me in finding my lost card?
+## intent: order_physical_card- How much does it cost for a physical card?
+- Where can the cards be delivered?
+- What do i do to get a physical card?
+- Can I request a card?
+- Do I have to pay for a physical card?
+- I need an actual card that I can hold in my hand, how do I do that?
+- what steps do i do to get a real card
+- Can you tell me exactly what fees I will expect to see in regards to your cards?
+- What do I do to get ahold of my own card?
+- Are cards delivered to my location?
+- Is it possible to get a physical card?
+- I would like to request a card.
+- I need to order a new card.
+- Can you send me the actual card?
+- I would like to get a physical card, but I don't know how. Can you help me?
+- how do i get a new card
+- Where do you need to live to receive card
+- How do I get a real card?
+- How do I go about getting an actual card?
+- Please tell me how I can receive a physical card
+- I would like a physical card
+- Where are your cards delivered to?
+- Can I order a card please?
+- tell me how I can order my card.
+- Does it cost anyting to get my own card?
+- Is a physical card also available
+- Do physical cards cost money?
+- Are physical card available?
+- I want to request a physical card
+- Is there a charge for a physical card?
+- Do you ship your cards anywhere?
+- I want a real card
+- Where do you deliver cards to?
+- Where are the cards delivered to
+- What do I owe for a new card?
+- Is it possible to order a card?
+- What areas are cards delivered to?
+- Where can I order a card?
+- Is there a fee to get an actual card?
+- do i need to add money before i order a card
+- What does the bank charge for lost or stolen card replacements?
+- Is there a fee for physical cards?
+- How can receive a physical card
+- Can I have a tangible form of my virtual card.
+- Where will I get my card?
+- Help me order my card.
+- Where do I go to order my card?
+- Can I get a physical card for free, or is there a charge?
+- How do I get my card?
+- Is a physical charge extra
+- Where do your cards get delivered to?
+- Do I receive the physical card for free
+- I really want a physical card. How do I get one?
+- can i get a physical card online
+- What do I need to do to get a card?
+- I would like a card please.
+- I need to get hold of a physical card?
+- Can I get a new card?
+- Can I get a card in person?
+- How can I order a card?
+- Can I order a card?
+- Where do you export the cards to?
+- Can I receive my card anywhere?
+- how do I ask for a physical card?
+- How to order my card?
+- Where can I get a physical card?
+- How much for an actual card?
+- Can you tell me how do I get a card?
+- How do I actually obtain a card myself?
+- Card delivery services? Where?
+- Can I get an actual card
+- I would like a  physical card sent to me.
+- How can I order my card?
+- Do I get a card to keep in my wallet?
+- How do I order a card?
+- What is the process for getting an actual physical card?
+- What is the price for a physical card?
+- At which locations can I order a card?
+- Is it possible to get a real card?
+- I would really like a physical card.
+- Can I get a physical card
+- Where do we mail the card?
+- How to receive the actual card
+- What is the cost for physical cards?
+- Do I get an actual card?
+- how much does a card cost and why do you charge me
+- How do I order my card?
+- How do I receive a card?
+- Can cards be delivered? Where?
+- Is there a fee to order a physical card?
+- How do I go about ordering a card?
+- I need to get a card, how do I do that?
+- What do I need to do in order to get a new card?
+- Show me where to order my card.
+- IS there anywhere that a card cannot be delivered?
+- How do i receive a physical card?
+- I need a physical card.  What are the fees?
+- how much for a physical card?
+- Where do I order a card?
+- Where do you mail physical cards?
+- Is payment required to get a card of my own?
+- I still don't have a card. How do I get one?
+- Where do I find our how to get a physical card?
+- What are the places that you deliver cards to?
+- Where are cards available to order?
+- What locations are cards delivered to?
+- How much is a physical card?
+- Do I get a real card?
+- What fees do you charge for the standard card?
+- I want a physical card
+- Will you charge for a physical card?
+- I'm interested in getting a card. How does one go about doing that?
+- How would I go about getting a physical card to use in stores?
+- Will there be a fee to receive a physical card?
+- I would like to have a physical card to carry around and use. How can I get one?
+- What's the procedure for getting a card?
+- Where are the cards transported to?
+- What fees are charged for a physical card?
+- can i order cards on the app
+- Can I revive a physical card.
+## intent: pending_card_payment- What does it mean when a payment is pending?
+- Could you please tell me why my purchases from this morning say payment is pending?
+- The purchase I made is still pending.
+- Is there a problem with the payment that I see is still pending?
+- There is a payment that I made that hasn't gone through yet.
+- How long does it actually take for a card payment to go through? There's one stuck since a couple days already that doesn't seem to move
+- Why does my payment appear as pending?
+- How long does a payment usually show as pending? Is it normal that mine is still pending?
+- Why is my payment in pending status?
+- I have a card payment which shows as pending
+- I made a payment with my card and it hasn't changed. How long do you think this will take?
+- Why is the payment showing as pending from things I bought this morning?
+- I made a card payment which is showing me pending.
+- Why are my payments not working and show pending?
+- I put in a payment a while ago and it has still not cleared and is showing up as "pending", how long does it take to clear?
+- Why are the things I bought earlier today still showing as pending?
+- Card payment still pending.
+- My card payment is just showing up as pending since forever, what's going on with that, it should be going through at some point?
+- I have a payment that has not gone through yet
+- I initiated a payment a while ago and it is still showing as "pending", how long will it take to clear?
+- Why is my purchase showing as pending?
+- How long will it take for my payment to go through?
+- After making a payment with my card it doesn't seem to have worked. It's just showing to be pending. When will this actually be going through?
+- It says "pending payment?" Why is it saying this?
+- Is there a reason my payments are pending?
+- Why is my card payment still a pending transaction?
+- Card payment is still pending, why is that the case?
+- I have been waiting for my card payment to be moved from pending status for an unusually long time.  What is going on here and do you have an idea of when I can expect it to go through?
+- How come my card payment is still pending?
+- I notice there's a pending payment on my card.
+- How is my card payment still pending?
+- Why is my card payment still pending?
+- What does pending payment mean?
+- Why is my payment still pending?
+- What does it mean when it says that I have a payment that is pending?
+- My card payment is showing pending however this transaction was a couple of days ago. Is there a reason why it it still pending?
+- A card payment on my account is shown as pending.
+- Why is their a charge pending on my card still?
+- My card payment says pending and it hasn't changed
+- Card payment is showing as pending
+- What is the longest that a payment will show pending?  There is one showing that has been sitting there a few days.
+- I tried to pay through my account but the payment is not going through. What's going on?
+- Why is the payment on my card still pending?
+- What's taking so long for this payment to go through?
+- Why haven't I gotten my payment yet?
+- It looks like a payment I've made hasn't made it through yet.
+- My card payment has had the status of pending forever. What is the issue? It should have gone through at some point.
+- A payment is pending
+- Why hasn't my card payment cleared yet?
+- I've made a card payment a couple of days ago now but it looks like the money is stuck. How long does it typically take for the payment to go through?
+- My payment is taking a long time to go through.
+- What does it mean if my payment is pending?
+- When will my payment go through?
+- My card payment still pending
+- How long does a payment show as pending before i should worry about it?
+- Why is my card payment pending?
+- I made a card payment by my card but it failed. Please let me know when the payment will get completed as its still pending.
+- Hi, status of one of my card payment is still pending from a while. Please let e know how much time it will take to complete.
+- After I make a payment, how long will it be before it transitions from "pending" to complete?
+- My card payment is showing up as pending for a very long time, what's going on with that, it should be going through at some point?
+- My purchases from this morning are showing up as payment pending. Can you tell me why?
+- There is a payment that has not processed.
+- I'm still waiting on a payment
+- I need to find out why my pending payment hasn't gone through.
+- I am waiting for a payment to be processed
+- I don't understand why my card payment is pending.  It has been pending for too long.  Why is this and when might it go through?
+- I did a payment with my card but seem that didn't work, it's still listed as pending since a while ago. When does this actually go through?
+- I need to know when a payment will actually go through. I completed a payment using my card but it is just showing as pending at this point and it has been a while ago.
+- When will the transaction go through?
+- My card payment has been stuck on pending. What is the problem? It should have gone through by now.
+- Why is the purchase I made this morning still pending?
+- A transaction on my card shows as pending.
+- I have a pending payment on my card.  Why?
+- I have a card payment that has been pending for some time and would like to know when it is going to go through.
+- I made a payment a while ago and it is still showing as "pending" in the account. How long will this payment take to complete?
+- What does a 'pending payment' mean?
+- Hello, I made a payment with my card and it's not working. It's been a while and still says its pending. Can you tell when this will go through?
+- Hi,  One of payment is still coming as pending for which i have already paid by card. I guess it did not processed, could you please check and update me.
+- My purchase from this morning still is pending.
+- Why is my card payment still listed as pending?
+- One of my card payments looks like it's stuck but I have made the payment days ago. How long until the payment will be applied to my account?
+- I don't know what pending transaction means.
+- My card payment is just showing up as pending since forever, what's going on with that, when should it be going through?
+- It says pending status for my payment. Why?
+- pending transaction?
+- I noticed that there's a payment on my card that's pending.
+- When is a payment I made with my card going to clear>
+- My card payment has been pending for a long time now. Why is it taking so long to take. It should have already made it through.
+- What does it mean if it says that my payment is pending?
+- Why are my purchases from this morning still pending?
+- I was wondering why my payment hasn't gone through yet, its been a while.
+- My card payment has been on pending forever. What is the problem? It should have gone through at some time by now.
+- I did a card payment but its status is still coming as pending. Please check and inform when it would complete.
+- I have made a card payment but it did not completed still showing as pending. Please tell me when it will be completed.
+- Why hasn't my payment gone through?
+- Why is my card payment still pending? It should have gone through already.
+- I made a purchase this morning, and it is showing as pending.
+- There is a single payment on my card which shows as pending.
+- How long does it actually take my card payment to make it to the account? I've made a payment a couple of days ago but it hasn't moved since.
+- How long does it take for my payment to process?
+- Why would my payment for my card show as pending?
+- Why aren't my payment funds available to me?
+- I got some items this morning but the payment says pending
+- Why is the payment I made still pending?
+- Is there a problem that makes my payments show pending?
+- I made a purchase earlier today but it is still listed as pending- when will it go through?
+- Why didn't my payment process
+- I have a payment that hasn't went through yet.
+- I made a payment but it's still pending
+- How long does it take for a new purchase to stop being considered pending?
+- I was wondering how long does it take for a payment to go thru? It seems my last payment is stuck and hasn't moved.
+- What is the cause of the delay in applying my card payment to my account?
+- Why would my payment still show as pending?
+- I have a payment which has not been approved.
+- What does it mean when it says I have a payment pending?
+- There is a pending payment on my account, what does this mean?
+- Why has my card payment not yet been applied to my account?
+- I bought some things in the morning but the payment shows as pending
+- I don't know what a pending payment is.
+- why do I have a pending payment?
+- How long does it actually take for a card payment to go through? There's one stuck since a couple of days already that doesn't seem to move
+- I purchases several items today. Why are they still showing pending?
+- There is a payment showing as pending and hasn't posted for a few days.  When will it post?
+- I have made a payment by my card, and its still pending since a long time. Could you please tell me when it will process.
+- I completed a payment with my card a while ago. It's still showing up as pending. What time frame does this normally take? It doesn't appear to have worked.
+- The payment on my card shows as pending.
+- I have a payment that is still pending
+- I bought something this morning and the payment is still pending
+- There is a pending transaction on my account, what does this mean?
+- I made a payment that's pending. Will it go through?
+- It's been a few days since I've tried to pay a seller but the funds aren't going through. What is happening?
+- I made a payment that seems to be stuck. It's been a couple of days already. Can you tell me how long it will take?
+- I made a payment that is not yet complete.
+- Why hasn't my payment shown up yet?
+- What is the meaning of a pending payment?
+- My payment is in the app but hasn't gone through yet
+- How many days does a regular transaction take to complete?  I see a pending payment that hasn't changed in the last several days.
+- Why hasn't my payment gone through yet?
+- My payment's stuck on pending.
+- Is there a reason my payment is still pending?
+- What's the pending length for credit transactions? I've had one in my pending category now for days and it won't move to processed.
+- How long does it take for a payment to change from pending?
+- My credit card payment has been in pending status for a super long time.  I don't get it.  Why is it like this?  When will it go through?
+- Why hasn't payment gone through yet?
+- Why is this payment pending?
+- Why is the payment from my card still pending?
+- What is the pending payment on my card about?
+- It says that my payment is pending, what does that mean?
+- I tried to make a payment with my card and it was declined. Why is it pending?
+- Why is it saying I have a pending payment?
+- Is there something wrong with my card payment? It's been pending a really, really long time.
+- My purchases from this morning still have pending payments.
+- When will my pending payment finish?
+- I used my card to make a payment a while ago and its still pending, Why is it taking so long?
+- How long does it take for a purchase to go from pending to authorised?
+- My card has been pending for a while, what should I do?
+- There is a payment that i made that i noticed has not gone thru yet. Can i ask why?
+- My card payment is just showing up as pending and it has been a while , what's going on with that, it should be going through at some point?
+- How long will my payment be pending?
+## intent: reverted_card_payment?- I wanted to purchase something online but the payment was returned back to me. This has been going on for a couple of weeks. Please tell me what is going on here?
+- I tried to use my debit card, but the payment did not work.
+- Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying "they did not receive my payment" then the payment was returned to my account. so I would like to see why it did that please.
+- I think my card payment has been reverted
+- Tell me why my card payment would be reverted.
+- Why has my card payment been reversed?
+- I didn't cancel my card payment.
+- Can you tell me why the card payment came back?
+- How come the money from the merchant appeared back into my account?
+- My payment was terminated
+- I think my card payment has been refunded
+- I made a payment and it was reverted and wanted to know why?
+- Is it on purpose that my payment has been returned to my account?
+- The app reverted the payment I made.
+- Why would my payment have been returned to my account?
+- I bought something and already paid for it but now I don't see it.
+- I really wanted to buy something online but seems the card is not working as the payment suddenly came back! What's going on here, I've been trying for a good week or two.
+- My payment has been cancelled
+- I made a payment but it was returned.
+- My card payment has been cancelled
+- I made a payment with my card that was cancelled?
+- Hey a seller just contacted me that my money didn't come through. It was definitely deducted from my account, but now it appears it's back with me! Sort this out asap please.
+- My payment didn't work and the money is in back in my account.
+- The payment I made with my card is not showing up.
+- Hello,  I noticed the money for an item I purchased online and have already received has been returned to my checking account. Was there an issue with the merchant accepting my payment? Or, possibly, with the bank sending it?
+- My payment came back for something i'm trying to buy online? it's been doing it for two weeks.  do you know what the issue is?
+- It looks like my card payment might have been reverted.
+- Why has my payment been reversed?
+- I was refunded the money for something I bought already.
+- I already got my item but just got my money back
+- I believe that a card payment I made was cancelled.
+- Why would my card payment be cancelled?
+- I dont know what happened, but my payment was cancelled
+- The card payment didn't work
+- why did my payment revert
+- I would like to make a purchase, however my card has been declined. I would like to ask the reason for this. The past two weeks, the card has been working fine.
+- I made a payment but the app cancelled it.
+- The app reverted my recent payment
+- Why would my card payment get reverted?
+- I believe my card payment were reverted
+- My card has an issue, the payment has been deferred.
+- Under what condition will my payment revert?
+- My card payment was reverted, why?
+- What should I do if my card payment was cancelled?
+- What reasons would cause my card payment to be cancelled?
+- Is my card payment reverted?
+- I had a payment reverted and would like to figure out why.
+- I just checked and my payment was cancelled, why?
+- My money is back in my account after a seller contacted me stating they never received payment. I am positive it was deducted out of my account. Please get this sorted out right away.
+- HELP. My account has been deducted already and the Seller says they haven't received the money yet? When can they expect it?
+- Seems like my card payment has been cancelled
+- Can you please tell me why my card payments are not going through when I try to buy something online? When I put in my card payment it takes it but it comes back a while later.
+- I was checking my statement and I think one of my card payments has reverted
+- Why isn't my payment showing?
+- What happens when a payment is reverted?
+- I received a message from a seller stating they hadn't received my money even though it definitely came out of my account. The money has now been deposited back into my account. Please get this resolved as soon as possible.
+- I cancelled my card payment
+- Ive been trying to use my card for two weeks now to purchase somethings online but nothing is going through. It keeps returning my payment to my account. There shouldn't be anything wrong with my account, is it the card?
+- I used my card to make a payment and wondered why the payment was reverted?
+- I bought something and received it, but the payment went back to my account. Is the seller okay?
+- Looks like my card payment was cancelled.
+- why would a merchant refuse a payment
+- How do I fix a payment that was reverted
+- I just found out from the seller that my money didn't go through. I checked my account and it was deducted at first but now it's back in my account. Can you  please fix this for me quickly?
+- The seller just told me he didn't get paid. After reviewing my account it did subtract the balance but now it has added it back to my account. I need you to please take care of this promptly.
+- My card payments have stopped.
+- My card payment was cancelled it seems.
+- Why was a payment I made reverted?
+- I need help to resolve mix up on my card payment. My account shows the money was taken out and then put back in the account. Then I received a message from the seller, It said that they did not get my payment.
+- Was my transaction reverted with my card?
+- My payment was put back, I think.
+- I've got a problem - I purchased an item maybe a week or two ago, but to the payment came back to my account! I've already got what I ordered, so why are the payment funds showing up in my account?
+- I think my card payment was cancelled. What happened?
+- I had a seller reach out to me saying my money didn't come through to them, but I'm sure it was removed from my account. Can you figure out what the deal is here?
+- What does it mean if it says my card payment has been cancelled?
+- Why was a payment cancelled on my account?
+- Card payment has be declined.
+- Why is a payment I made reverted back to my account?
+- My payment has been returned.
+- What does it mean if my payment has been reverted?
+- I made a payment but the app gave the money back.
+- I purchased something about one to two weeks ago but for some reason the payment was returned to my account today even though I've already received one of the items. Can you tell me what's going on?
+- I've got a problem - I bought something with my card one or two weeks ago, but now exact same amount of the purchase is showing up in my account. I like more money in my account, but this is too good to be true. Can you tell me what's happening?
+- I think a card payment I made was cancelled.
+- I have an issue. I bought something within the past one to two weeks and have received one of the products; however, today the total was returned to my account. What's going on here?
+- Why did you cancel my card payment?
+- I did a payment but it was reverted by the app
+- My payment has not been accepted.
+- Unknowingly to me the payment sent to seller has been redeposied back in my account. I do not know why it would take out the payment and then put it back in my account. Can you resolve this as soon as possible?
+- Can you tell me why my card isn't letting me make purchases online? It's been 2 weeks I've been trying.
+- Why did my payment not go through why did it cancel?
+- Hi, I am trying to buy something online, but i think there is some issue in my card. As payment is reverted. Please help me in this as i am facing the same issue from last two weeks.
+- What is the reason for my card payment to be reverted?
+- My card payment's cancelled
+- What does it mean if my payment was reverted?
+- Please help me with my card payments which keeps getting reverted whenever i do online shopping. I am having this problem since last two weeks.
+- Why did my payment go back to my account when I bought something?
+- Why is my card payment cancelled?
+- Hello, I was contacted by a seller who let me know my money didn't come through on their side. It most certainly came out of my account so I need this looked at immediately because now it has been returned to me!
+- has my card payment been reverted?
+- I have cancelled payments to this card.
+- There's a problem - I bought something about a week or two ago but just today the payment somehow came back into my account! I already received the item though, what's going on here?
+- I see a reverted payment on my account. Why has this happened?
+- I think the payment from my card was revereted
+- I think my card payment was reverted
+- How come I can't find my payment?
+- I tried to buy something online but my funds were transferred back to my account. What is happening?
+- I received a returned payment that I made.
+- Why did the funds for one of my purchase come back to my account?
+- Why would the app revert my payment?
+- It looks like my card payment was sent back.
+- Can you tell me why my card payment was cancelled?
+- I purchased something and already received it, why hasn't the money taken out?
+- One of my card payments has reverted
+- I was just contacted by a seller that let me know they didn't get my money even though I'm very sure it was removed from my account. Now it's back in my account. Get this resolved quickly.
+- My card payment has not been withdrawn from my account
+- My card payment was reverted
+- I just got refunded for my purchase over two weeks ago
+- Please tell me why the purchase I made online returned payment. I really wanted this item and I've been trying for 2 weeks.
+- I paid two weeks ago and just got refunded
+- My card payment was cancelled.  Why?
+- I seem to have a problem here, I bought something about a 2 weeks ago and just now received the payment back into my account and I've already received the item. Can you tell me what is going on here?
+- Why has my money been returned back to my card.
+- Why would my card payment be reverted?
+- I've got a weird problem: I purchased something a week or maybe it was two weeks ago, and the funds have come back into my account! Can you explain this?
+- I purchased something and the seller hasn't received the money yet, but it has been deducted from my account.
+- I think a payment I made with a card was cancelled.
+- I notice that I have a card payment that's been cancelled.
+- why was my payment reverted on the app
+- I did a payment but the app cancelled it.
+- I am not able to make a purchase because there is an issue with my card
+- Explain why a card payment would be cancelled?
+- What happens if my card payment is cancelled?
+- Why would a merchant revert my payment?
+- What happens if a merchant doesn't accept  you payment?
+- My card payment reverted back, I think.
+- I sent a payment but now it's not showing up.
+- How can I tell if my card payment is reverted?
+- I'm not sure what is going on here. I've received payment back into my account  for an item I've already received, from about 2 weeks ago.
+- Why was my card payment reversed?
+- Why have I received a rebate for my payment after a week?
+- Around one or two weeks ago I purchased something but there's seems to be an issue. I have already received one of the items, but today the money was placed back into my account. What is happening?
+- Why wasn't my payment accepted by the app
+- Why would a merchant revert a card payment?
+- Hi, I am facing issue with my card payment while shopping online as payment is getting reverted. I am struggling with this issue around two weeks. Please advise.
+- I cannot seem to buy something online with my card? the payment comes back, what's going on?
+- Did a card payment that I made get cancelled?
+- I think a card payment I made was cancelled, can you check?
+- A seller is stating that they haven't received money yet when the money has already deducted from my account.
+- I an not sure but it looks as if a card payment I made was cancelled.
+- The money is still in my account even though I already paid -- I don't understand what happened.
+- My card payment might have been reverted.
+- I noticed my card payment was cancelled, can you tell me why?
+- I am not able to purchase anything online! I have been using my card on multiple sites over a period of two weeks and none of the payments have gone through. Why is this happening?
+- I believe my card payment has reverted
+- What do I do if my payment was reverted?
+- My payment was stopped
+- My payment was cancelled
+- My payment did not go through because the app reverted it
+- Was my card payment reverted?
+- Is it possible that my card payment was reverted?
+## intent: supported_cards_and_currencies- How do I use American express to top up my account?
+- Which currencies do you accept for adding money?
+- Is my credit card supported for top-ups?
+- Am I able to add money into my account using my American Express?
+- Can I use my American Express card to add money into my account?
+- Can you tell me what currencies I can use to add money?
+- I want to use my American Express for adding money into my account.
+- With what currencies can I add money?
+- What are the acceptable currencies for adding funds?
+- how can i transfer money from american express card
+- what cards and currencies are accepted?
+- How can I top up my card with another card?
+- use my credit to add money
+- What types of currencies do you accept?
+- Do you accept any card and currency?
+- can i use my mastercard to add money to my account
+- What types of cards and money do you accept?
+- How can I fund another account with my American Express?
+- What currencies do you accept to add money?
+- How can I top up my account and which currency can I use?
+- Will my other US credit card be accepted?
+- can i top up from a usa credit card
+- How can I get funds into my account from my American Express?
+- Which cards and currencies are supported?
+- What are the currencies and cards that are supported with my account?
+- What currency can I use to add money?
+- Can I use a credit card from the US to top up?
+- why don't you accept american express for adding money to my account
+- Can you tell me what cards and currencies you support?
+- Which foreign currencies do you accept for adding money?
+- I only have one other credit card from the US. Do you accept that?
+- What currencies are approved to add money?
+- I wish to use my American Express to put funds into my account.
+- I have another card from the U.S. Will you be able to accept that one?
+- I want to use a payment card to top up my account. How can I do this?
+- Can I use American Express?
+- I'd prefer to use my American Express when putting funds into my account.
+- What currencies can I use?
+- what cards can i use to add money to my account
+- What currencies and methods can i use to top up my account?
+- Is American Express supported for adding funds?
+- Do you accept credit cards from the US
+- Can you accept my other card from the U.S.?  It is the only other one I have.
+- Do you accept Mastercard?
+- I am adding money, what currencies do you accept to do this?
+- Which currencies do you handle?
+- what currencies can i use to add money to my account
+- Are there certain cards and currencies you support?
+- why wont my american express work to add money
+- Which currencies can I use to add money?
+- Can I use any card and currency?
+- What kind of cards are supported?  What currency?
+- What US cards do you accept?  I only have 1 other.
+- I have a second credit card from the US. Will you take it?
+- What cards do you accept to top up my account?
+- What currencies do you accept for adding money?
+- Can I top off with a debit card?
+- I want to deposit funds, what payments are accepted?
+- Are cards from the US accepted?
+- I'd like to use my American Express to place money into my account.
+- Please let me know what currency I can use to top up my account?
+- Do you accept all cards and currencies?
+- I have one other credit card from the US. Do you take that?
+- Which credit card top-ups do you accept?
+- If I top up by card, what options do I have re: currency and card type?
+- What currencies are accepted to add money?
+- I want to add money to my card, what payments do you accept?
+- What are my payment options?
+- Can I electronically transfer funds into my account from my American Express?
+- Can I top up my card with other cards?
+- I have one other credit card from the US. Do you take it?
+- Am I able to use my American Express to add money to my account balance?
+- What are the cards and currencies that you support?
+- What US credit cards do you accept?
+- What currencies do you accept for adding money to my account?
+- I have an American Express that I'd like to add money to my account with.
+- What forms of payment do you accept?
+- What type of card can I use to top up?
+- Do you have a list of cards and currencies you support?
+- I want to top up by using a credit card, which ones do you support?
+- I have a US credit card, will you accept it?
+- What currencies and cards do you support?
+- how do i add money from my amex card to top up
+- What cards and currencies can I use to top up my account?
+- Will you accept my credit card?
+- Will you accept my credit card, it my only one.
+- If I want to add funds to the account using American Express, how do I do that?
+- I just have one additional card from the USA. Do you support that?
+- Why doesn't it work when I use American Express to try to add money to my account?
+- Which cards are accepted for topping up?
+- What kinds of cards can I use to top up?
+- Help me use American Express to add money to the account.
+- What cards and currencies can I use?
+- What currency is acceptable for a top up?
+- What other credit cards can I use?
+- What payment methods are used to top up?
+- how can i add money from my amex card
+- I only have a card from the US is that okay?
+- Is American Express accepted?
+- Which currencies do you work with?
+- Can I use this app for any currency?
+- For adding money, which currencies do you accept?
+- How can I pay for top-ups?
+- Is American Express supported for adding money into my account?
+- Can you tell me which cards and currencies are supported?
+- I would like to top up via credit card, which credit cards do you support?
+- I only have one more US credit card, is it accepted?
+- If I want to topup by card, how do I do it?
+- I want to know which currencies and cards are supported, can you provide a list?
+- I want to top up by card, what do you support?
+- can i add funds  with a card from the united states
+- I want to top up my account. What payment methods are supported?
+- How can I use my American Express to add money into my account?
+- What card or currency can I use to pay?
+- My card wants to be topped what do you guys support?
+- do you accept from usa credit card?
+- What currency can I use to pay for a top up?
+- Do you have a list of the cards and currencies supported?
+- What are the various currencies and cards that you offer support for?
+- What currencies can be used for top up?
+- Do I have to top up in euros if I use a card, or can I use a different currency?
+- What cards do you support
+- What are the currencies that are accepted to add money?
+- What kind of cards an currency do you support?
+- Which cards do you support for top up?
+- Top up my card please, which y'all support?
+- Do you accept US credit cards?
+- I need to know if you will accept my credit card.
+- I want to add funds to my account. What payment methods are accepted?
+## intent: visa_or_mastercard- Is there a way I can have a mastercard?
+- is it just visa or can i also use mastercard?
+- I do not want a VISA card.
+- I prefer using Mastercard, can I substitute?
+- I prefer Mastecard.
+- may I have a Visa and a Mastercard from you.
+- I'd prefer Mastercard.
+- Will my card be a MasterCard or a Visa?
+- I want a mastercard
+- I prefer mastercard.
+- Please give me both a visa and a mastercard.
+- Is it possible to get a Visa and Mastercard from you?
+- If I can't choose my card type will I be able to use it everywhere?
+- Do I get  a mastercard and visa?
+- Why can I not choose the card i want?
+- Can you send me a Mastercard, instead of a Visa?
+- Can I pick between Visa and Mastercard?
+- I have a Visa and Mastercard, can I use these?
+- I want to apply for a Visa card.
+- Can you issue both a Visa and a Mastercard to me?
+- I would like a Visa card.
+- I am looking to get a Visa credit card, what must I do to achieve this?
+- Is there a way I can get a Visa card?
+- Can I get the Mastercard?
+- Do I have a Visa card as an option?
+- Are visa and mastercard accepted
+- What credit cards do you carry
+- would a visa or mastercard be more suited to me?
+- I am interested in a Visa or Mastercard. Do you offer them?
+- is it ok if i use both visa and mastercard
+- Do I have a choice for a Mastercard?
+- Can I use visa or mastercard with your service
+- Can I choose from either Visa or Mastercard?
+- Can I have a Visa card?
+- Would I get a Visa or Mastercard?
+- Am I able to get both a Visa and MasterCard from you?
+- Is it possible to get both a Visa and a Mastercard?
+- Can I choose my Visa or Mastercard?
+- My preference is Mastercard.
+- What card types can I choose from?
+- I want to get a Visa
+- Can I choose whether I receive a Visa or a Mastercard card?
+- Which type of card will I receive?
+- I would like to have a Mastercard.
+- Can I get a Visa or Mastercard?
+- Do you give out Visa or Mastercards?
+- Do I have to pick a creditcard brand?
+- Please give me a Mastercard instead.
+- Visa or Mastercard?
+- Can both Visa and Mastercard be chosen?
+- Do you let me choose between Visa and Mastercard?
+- What cards do you offer?
+- Does it matter if I use Visa or Mastercard?
+- How can I choose between Visa and Mastercard?
+- I'm happy with Mastercard and want to stick with just that credit card.
+- Can both a Visa and Mastercard be received from you?
+- I prefer to get a Mastercard.
+- I'm wanting to get a Visa card today.
+- What do I have to do to get a Visa card?
+- I would like to get both a Visa and MasterCard?
+- Would you give me a mastercard and visa?
+- I'd like to apply for a Visa Card.
+- My first choice would be Mastercard.
+- I want to get a Visa and Mastercard, is it possible to get both from you?
+- Are you Visa or Mastercard?
+- Please help me get a Visa card.
+- I won't be pleased unless I get a Mastercard.
+- Can I select my card scheme or do you choose it for me?
+- No Visa please. I want to continue with Mastercard.
+- Will the card be a Mastercard or a Visa?
+- Can I choose my card scheme?
+- Does it matter which card I use
+- What type of card will I receive?
+- Can I get a Visa or does it have to be something else.
+- I'd like to get a Visa card, please.
+- Visa and Mastercard can both be received from you?
+- Can I choose between Mastercard and Visa?
+- I prefer Visa, can I get that instead?
+- Will I be able to get both a visa and a mastercard?
+- I anticipate getting a Visa card
+- What type of card can I get?
+- Will I get Visa or MasterCard?
+- Visa and MasterCard, can I get them both?
+- Can I choose between Visa or MasterCard?
+- I need a Visa card
+- Do you take both Visa and Mastercard?
+- Which card would I get, Visa or Mastercard?
+- Could I get a MasterCard and Visa from you?
+- I want to get a Visa card
+- Is it possible to get both Visa and Mastercard from you?
+- Can I get both a Visa and a Mastercard from you?
+- Do you accept Visa or Mastercard?
+- Given a choice, I'd rather have Mastercard.
+- can i use both visa and mastercard
+- Is it possible to obtain both a Visa and a Mastercard from you?
+- If I can, I would like to get both Mastercard and Visa from you.
+- Mastercard is preferred to me.
+- I need a Visa and a Mastercard from you.
+- This transaction needs both a Visa and a Mastercard.
+- I want a Mastercard, instead.
+- I need to get visa and mastercard
+- Could I get a mastercard if that's reasonable?
+- I need mastercard as well as visa
+- Will I get a Visa card or Mastercard?
+- I would like to get a Visa card
+- How can I get a Visa and Mastercard?
+- Can I get a Visa instead of a MasterCard?
+- Can I obtained a Visa Card
+- Please give me both Visa and MasterCard, is it possible?
+- Do I get Visa or Mastercard?
+- Why did I get a different card then requested?
+- Can I use a Visa or Mastercard?
+- Can I choose between Visa and Mastercard?
+- Mastercard is my preferred company.
+- Is it possible to get both Mastercard and Visa card from you?
+- I'd prefer a Mastercard.
+- Can I have a mastercard?
+- How do I get selected for a visa card?
+- Do I have an option between Visa and MasterCard?
+- Can I get a Visa from you?
+- I hope to get a Visa card
+- Which one are you?  Visa or Mastercard?
+- How can get a Visa card?
+- Can you make sure I get a MasterCard and not a Visa?
+- I would prefer a Mastercard.
+- I would like to get both Mastercard and Visa card from you if that's possible.
+- Will I get a visa or Mastercard?
+- Will you guys do Visa or Mastercard?
+- Do you only use Visa or do you have Mastercard too?
+- Can I get a Visa card?
+- I would like to know if you use Visa or Mastercard.
+- Is it acceptable to use either Visa or Mastercard?
+- Please tell me, do you use Visa or Mastercard?
+- Can I choose what card I can use
+- Do you supply both Visa and Mastercard?

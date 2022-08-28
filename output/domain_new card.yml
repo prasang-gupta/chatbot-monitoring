@@ -1,0 +1,15 @@
+intents:
+  - disposable_card_limits
+  - get_disposable_virtual_card
+  - getting_virtual_card
+  - virtual_card_not_working
+
+responses:
+  - utter_disposable_card_limits:
+  - text: "Text for disposable_card_limits"
+  - utter_get_disposable_virtual_card:
+  - text: "Text for get_disposable_virtual_card"
+  - utter_getting_virtual_card:
+  - text: "Text for getting_virtual_card"
+  - utter_virtual_card_not_working:
+  - text: "Text for virtual_card_not_working"

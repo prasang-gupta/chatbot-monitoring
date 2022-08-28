@@ -1,0 +1,69 @@
+intents:
+  - activate_my_card
+  - atm_support
+  - card_about_to_expire
+  - card_acceptance
+  - card_arrival
+  - card_delivery_estimate
+  - card_linking
+  - card_not_working
+  - card_payment_fee_charged
+  - card_payment_not_recognised
+  - card_payment_wrong_exchange_rate
+  - card_swallowed
+  - compromised_card
+  - declined_card_payment
+  - get_physical_card
+  - getting_spare_card
+  - lost_or_stolen_card
+  - order_physical_card
+  - pending_card_payment
+  - reverted_card_payment?
+  - supported_cards_and_currencies
+  - visa_or_mastercard
+
+responses:
+  - utter_activate_my_card:
+  - text: "Text for activate_my_card"
+  - utter_atm_support:
+  - text: "Text for atm_support"
+  - utter_card_about_to_expire:
+  - text: "Text for card_about_to_expire"
+  - utter_card_acceptance:
+  - text: "Text for card_acceptance"
+  - utter_card_arrival:
+  - text: "Text for card_arrival"
+  - utter_card_delivery_estimate:
+  - text: "Text for card_delivery_estimate"
+  - utter_card_linking:
+  - text: "Text for card_linking"
+  - utter_card_not_working:
+  - text: "Text for card_not_working"
+  - utter_card_payment_fee_charged:
+  - text: "Text for card_payment_fee_charged"
+  - utter_card_payment_not_recognised:
+  - text: "Text for card_payment_not_recognised"
+  - utter_card_payment_wrong_exchange_rate:
+  - text: "Text for card_payment_wrong_exchange_rate"
+  - utter_card_swallowed:
+  - text: "Text for card_swallowed"
+  - utter_compromised_card:
+  - text: "Text for compromised_card"
+  - utter_declined_card_payment:
+  - text: "Text for declined_card_payment"
+  - utter_get_physical_card:
+  - text: "Text for get_physical_card"
+  - utter_getting_spare_card:
+  - text: "Text for getting_spare_card"
+  - utter_lost_or_stolen_card:
+  - text: "Text for lost_or_stolen_card"
+  - utter_order_physical_card:
+  - text: "Text for order_physical_card"
+  - utter_pending_card_payment:
+  - text: "Text for pending_card_payment"
+  - utter_reverted_card_payment?:
+  - text: "Text for reverted_card_payment?"
+  - utter_supported_cards_and_currencies:
+  - text: "Text for supported_cards_and_currencies"
+  - utter_visa_or_mastercard:
+  - text: "Text for visa_or_mastercard"
