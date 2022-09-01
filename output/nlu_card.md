@@ -188,8 +188,7 @@
 - Will any ATM's decline my card?
 - What ATMs can I use my card?
 - What cash stations take this card?
-- 
-At which ATMs can I use this card?
+- At which ATMs can I use this card?
 - Please provide me a list of ATMs that accept my card.
 - Can I use my card at an ATM?
 - Where is the closest ATM I can use?
@@ -208,8 +207,7 @@ At which ATMs can I use this card?
 - Where is a ATM that accepts Mastercard?
 - Where are the Mastercard ATMs?
 - Where can I withdraw money from?
-- 
-Where can I withdraw money from?
+- Where can I withdraw money from?
 - Can I use a different bank ATM than my own?
 - need to know places i can withdraw money
 - The card can be used at which ATMs?
@@ -395,8 +393,7 @@ Where can I withdraw money from?
 - You accepts my card?
 - Is my card accepted anywhere?
 - Is my card denied anywhere?
-- 
-Where can I use my card?
+- Where can I use my card?
 - Where can I use my Mastercard?
 - where is card accepted
 - Where can I pay with my card?
@@ -884,11 +881,7 @@ Where can I use my card?
 - Suddenly, my card won't work.
 - My card hasn't been working when I try to use it.
 - My physical card is not working
-- 
-I can't seem to be able to use my card
-
-
-
+- I can't seem to be able to use my card
 - Why is my physical card not working?
 - Help.  My card is broken.
 - I am unable to use my card.
@@ -1556,7 +1549,6 @@ I can't seem to be able to use my card
 - Please tell me how you can stop unauthorized payments from being made on my card since on this bill I see that this has happened. There are transactions that I never made from a place I've never been to.
 - I think that somebody is utilizing my card without my authorization!
 - There are a few transaction that I don't recognize, I think someone managed to get my card details and use it.
-
 - Someone has been using my card. There are unfamiliar transactions on there. Can you freeze the card to keep this from happening?
 - What can I do if my card details where stolen from my car? I think they used my card to buy gas.
 - I want to cancel my card. I think someone else is using it.
