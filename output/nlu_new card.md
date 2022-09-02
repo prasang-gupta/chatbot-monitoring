@@ -1,4 +1,5 @@
-## intent: disposable_card_limits- Do the disposable cards have any restrictions on them?
+## intent: disposable_card_limits
+- Do the disposable cards have any restrictions on them?
 - How many times can I use a virtual card?
 - A friend was telling me about her disposable cards. What would I have to do to be able to get that feature?
 - Can I have more disposable cards?
@@ -119,7 +120,8 @@
 - Is there a transaction limit on a disposable card?
 - How many disposable  cards are available per account?
 - What is the number of transactions for one disposable card?
-## intent: get_disposable_virtual_card- What do you use disposable cards on?
+## intent: get_disposable_virtual_card
+- What do you use disposable cards on?
 - How do I get a disposable virtual card as well?
 - I want a disposable virtual card, how do I do that?
 - What are the disposable cards for?
@@ -216,7 +218,8 @@
 - What is the disposable card for?
 - I have heard about these disposable virtual cards but don't understand how they work.
 - The disposable cards - what are they for?
-## intent: getting_virtual_card- I would like to order a virtual card, where can I get one?
+## intent: getting_virtual_card
+- I would like to order a virtual card, where can I get one?
 - I need to order a new virtual card, how do I do that?
 - How can I sign up for a virtual card?
 - I haven't received my virtual card yet!!
@@ -314,7 +317,8 @@
 - Please tell me how I can get a virtual card.
 - I did not get my virtual card yet, Why?
 - Where do I find a virtual card?
-## intent: virtual_card_not_working- Why isn't my disposable virtual card working?
+## intent: virtual_card_not_working
+- Why isn't my disposable virtual card working?
 - Can I use my virtual card to complete transactions for memberships?
 - Why won't my virtual card work?
 - My virtual card is just not going through.

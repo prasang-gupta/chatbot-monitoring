@@ -1,4 +1,5 @@
-## intent: activate_my_card- Please help me with my card.  It won't activate.
+## intent: activate_my_card
+- Please help me with my card.  It won't activate.
 - I tired but an unable to activate my card.
 - I want to start using my card.
 - How do I verify my new card?
@@ -157,7 +158,8 @@
 - How can my new card be renewed?
 - What is the proper way to activate a card?
 - How do I activate my card that just arrived?
-## intent: atm_support- I can use this card at which ATMs?
+## intent: atm_support
+- I can use this card at which ATMs?
 - Can I use the card at any cash machine?
 - What locations can I get money from?
 - What ATMs take this card?
@@ -244,7 +246,8 @@
 - What ATM locations are near me?
 - What ATM accepts Mastercard?
 - Can I withdraw from any ATM?
-## intent: card_about_to_expire- Are there any express fees if i want my new card faster?
+## intent: card_about_to_expire
+- Are there any express fees if i want my new card faster?
 - Do I need to do something to get a new card once it expires?
 - I am overseas in China, can I get a replacement card?
 - Can I get a new card with new expiration date in China?
@@ -373,7 +376,8 @@
 - My card is expiring, how do I get a new one?
 - I think my card is expiring, what happens then?
 - How do I get a new expiration date?
-## intent: card_acceptance- Is there anywhere I can't use my card?
+## intent: card_acceptance
+- Is there anywhere I can't use my card?
 - In which stores can I shop with this card?
 - How do I know where I can use my card?
 - Can I tell what business will take this card?
@@ -432,7 +436,8 @@
 - What businesses accept my card?
 - Can i use this card at any store?
 - Are there any restrictions on where I use this card?
-## intent: card_arrival- I am still waiting on my card?
+## intent: card_arrival
+- I am still waiting on my card?
 - What can I do if my card still hasn't arrived after 2 weeks?
 - I have been waiting over a week. Is the card still coming?
 - Can I track my card while it is in the process of delivery?
@@ -585,7 +590,8 @@
 - My card still hasn't arrived after two weeks, now what?
 - My card appears to have never arrived?
 - My card never arrived.
-## intent: card_delivery_estimate- Can it specifically be delivered on a certain date?
+## intent: card_delivery_estimate
+- Can it specifically be delivered on a certain date?
 - I need to get my card quickly
 - When can I expect my card? I live in the US.
 - Help! When will the card arrive at my home?
@@ -697,7 +703,8 @@
 - are you sending me my card?
 - I need my card immediately.
 - When will it be delivered to the US?
-## intent: card_linking- My card has been found. Is there any way for me to put it back into the app?
+## intent: card_linking
+- My card has been found. Is there any way for me to put it back into the app?
 - I was able to find my card. How to I go about putting it into my app?
 - how do I get my card to show in the app?
 - I just got my card.  It's not linked yet--how do I do that?
@@ -836,7 +843,8 @@
 - I have a card that was deactivated can I reactivate it?
 - My new card isn't in my app, how do I get it in there?
 - Help me access the card I already got so I can information from it.
-## intent: card_not_working- I can't use my card because it is not working.
+## intent: card_not_working
+- I can't use my card because it is not working.
 - I can't seem to be able to use my card
 - My card isn't working at all, I need assistance. It's really frustrating.
 - Can you tell me what the problem with my card is? It was declined at a restaurant today.
@@ -948,7 +956,8 @@
 - What do I do if my card is not working?
 - What should I do if my physical card isn't working?
 - The card that I have isn't working. This is the physical card.
-## intent: card_payment_fee_charged- There was a fee charged when I paid with my card.
+## intent: card_payment_fee_charged
+- There was a fee charged when I paid with my card.
 - I received a fee I should not have.
 - Why am I being a charged for using my card?
 - Tell me why there is a fee for a card payment.
@@ -1135,7 +1144,8 @@
 - How can I tell if there will be a fee added to my payment or not?
 - You promised no fees but now I've got one. What the hell!?
 - How do I know which payments I make will have additional fees? Where can I find this information online?
-## intent: card_payment_not_recognised- There's a payment with my card that I didn't perform. I don't know that name shown.
+## intent: card_payment_not_recognised
+- There's a payment with my card that I didn't perform. I don't know that name shown.
 - My statement indicates I made a payment to an unfamiliar merchant.
 - There's a payment with my card that I definitely didn't do myself, never seen that name before.
 - Help! In the app there is a payment that I don't remember.
@@ -1303,7 +1313,8 @@
 - There are a couple of payments with my card shown in the app that I really didn't make myself. Why is it happened?
 - A payment that I didn't make appears in my app.
 - There is a card payment that I'm not recognizing.
-## intent: card_payment_wrong_exchange_rate- Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?
+## intent: card_payment_wrong_exchange_rate
+- Last Saturday, I was charged extra for the exchange rate on my payment. Is something wrong?
 - Hi, I am disappointed to see such a bad exchange rate and hope you can assist me. Would you be able to confirm the official interbank exchange rate for me?
 - I think the currency exchange that's been applied is wrong.
 - The exchange rate I was charged for a purchase was not right.
@@ -1470,7 +1481,8 @@
 - I  have been charged more than I should for the presents I bought  when abroad, the problem seems to be the exchange rate.
 - I made a purchase but the exchange rate is wrong?
 - Why on earth is the exchange rate so bad?   Can I get a rate closer to the actual interbank rate?
-## intent: card_swallowed- What do I do if the ATM took my card?
+## intent: card_swallowed
+- What do I do if the ATM took my card?
 - What do I do now my credit card has been swallowed by the ATM?
 - An ATM machine didn't give me back my card.
 - My card got trapped inside an ATM, what should I do?
@@ -1531,7 +1543,8 @@
 - What are the steps I should take to recover my swallowed card?
 - My card is stuck inside the ATM, what am I supposed to do?
 - What should I do with my stuck ATM?
-## intent: compromised_card- I think someone is using my card without my permission!
+## intent: compromised_card
+- I think someone is using my card without my permission!
 - What do I do if I detect fraudulent use on my car?
 - I think my account has been hacked there are charges on there I don't recognize.
 - I don't recognize some transactions.  Is someone else using it?
@@ -1617,7 +1630,8 @@
 - There are transactions that I did not make on my account, I think someone has my information.
 - I think someone may be using my card.
 - I didn't make these transactions. Is someone else using my card?
-## intent: declined_card_payment- I'm not sure why my card didn't work
+## intent: declined_card_payment
+- I'm not sure why my card didn't work
 - My card is not working at stores.
 - Do you know why my card payment has been declined?
 - Why isn't my card working? I was pumped to use my new card but it keeps getting declined. Help please.
@@ -1770,7 +1784,8 @@
 - Please help to explain to me why my new card was declined when I tried to use it at my grocery store this morning to pay for the items I needed.  I tried three times to use it and it kept being declined.  I was very embarrassed standing there trying to buy my groceries.
 - My card payment was not successful.
 - Tell me why my card payment was declined.
-## intent: get_physical_card- I'm not sure what to do about the PIN, because I don't have one yet.
+## intent: get_physical_card
+- I'm not sure what to do about the PIN, because I don't have one yet.
 - Is my PIN sent separably?
 - Where can I get my card PIN?
 - my pin hasn't arrived in the post! How do I cancel it or get a new one?
@@ -1876,7 +1891,8 @@
 - Can you deliver the PIN separately?
 - is my pin the same as my passcode
 - how do i get a pin for my card
-## intent: getting_spare_card- Are extra charges added for sending out additional cards?
+## intent: getting_spare_card
+- Are extra charges added for sending out additional cards?
 - I'd like to order an additional card
 - I want some extra physical cards.
 - I would like open a second card for my daughter, how can you assist me?
@@ -2005,7 +2021,8 @@
 - Is there any way I can get more physical cards to use with my account?
 - Can I give a second card for this account to my daughter?
 - Is it possible to give a second card from my account to my daughter?
-## intent: lost_or_stolen_card- Has there been any activity on my card today?
+## intent: lost_or_stolen_card
+- Has there been any activity on my card today?
 - I lost my wallet and all my cards were in it.
 - I'm panicking!  I lost my card!  Help!
 - I need to report a stolen card
@@ -2087,7 +2104,8 @@
 - What should I do?  My card has been stolen!
 - My card was stolen last night.
 - Could you assist me in finding my lost card?
-## intent: order_physical_card- How much does it cost for a physical card?
+## intent: order_physical_card
+- How much does it cost for a physical card?
 - Where can the cards be delivered?
 - What do i do to get a physical card?
 - Can I request a card?
@@ -2207,7 +2225,8 @@
 - What fees are charged for a physical card?
 - can i order cards on the app
 - Can I revive a physical card.
-## intent: pending_card_payment- What does it mean when a payment is pending?
+## intent: pending_card_payment
+- What does it mean when a payment is pending?
 - Could you please tell me why my purchases from this morning say payment is pending?
 - The purchase I made is still pending.
 - Is there a problem with the payment that I see is still pending?
@@ -2366,7 +2385,8 @@
 - There is a payment that i made that i noticed has not gone thru yet. Can i ask why?
 - My card payment is just showing up as pending and it has been a while , what's going on with that, it should be going through at some point?
 - How long will my payment be pending?
-## intent: reverted_card_payment?- I wanted to purchase something online but the payment was returned back to me. This has been going on for a couple of weeks. Please tell me what is going on here?
+## intent: reverted_card_payment?
+- I wanted to purchase something online but the payment was returned back to me. This has been going on for a couple of weeks. Please tell me what is going on here?
 - I tried to use my debit card, but the payment did not work.
 - Hi, I had an issue with my card payment and It shows on my account that my payment went through. Then I got contacted from the seller saying "they did not receive my payment" then the payment was returned to my account. so I would like to see why it did that please.
 - I think my card payment has been reverted
@@ -2527,7 +2547,8 @@
 - My payment did not go through because the app reverted it
 - Was my card payment reverted?
 - Is it possible that my card payment was reverted?
-## intent: supported_cards_and_currencies- How do I use American express to top up my account?
+## intent: supported_cards_and_currencies
+- How do I use American express to top up my account?
 - Which currencies do you accept for adding money?
 - Is my credit card supported for top-ups?
 - Am I able to add money into my account using my American Express?
@@ -2656,7 +2677,8 @@
 - Do you accept US credit cards?
 - I need to know if you will accept my credit card.
 - I want to add funds to my account. What payment methods are accepted?
-## intent: visa_or_mastercard- Is there a way I can have a mastercard?
+## intent: visa_or_mastercard
+- Is there a way I can have a mastercard?
 - is it just visa or can i also use mastercard?
 - I do not want a VISA card.
 - I prefer using Mastercard, can I substitute?

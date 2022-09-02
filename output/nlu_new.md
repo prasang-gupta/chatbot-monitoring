@@ -1,4 +1,5 @@
-## intent: apple_pay_or_google_pay- Hi, I have an apple watch. How do I use it to top up my card?
+## intent: apple_pay_or_google_pay
+- Hi, I have an apple watch. How do I use it to top up my card?
 - Can I use google pay to top up?
 - why top up is not working even if I got my American Express in Apple Bay?
 - Can I deposit money using Apple Pay?
@@ -124,7 +125,8 @@
 - How can I top up with Google play?
 - How can I top up with Apple Pay?
 - Is it possible to use my apple watch for topping up?
-## intent: contactless_not_working- Should i uninstall the app before i try it again?
+## intent: contactless_not_working
+- Should i uninstall the app before i try it again?
 - How come when I tried to pay contactless at the bus it didnt work?
 - Why is my contactless not working?
 - My contactless payments don't work.
@@ -159,7 +161,8 @@
 - I am having problems with my contactless.
 - I am having issues using contactless payments, could my card be damaged?
 - What is the reason when I tried to pay contactless at the bus, it didnt work?
-## intent: lost_or_stolen_phone- My phone was stolen, what should I do first?
+## intent: lost_or_stolen_phone
+- My phone was stolen, what should I do first?
 - My phone was stolen, what should I do?
 - I lost my phone, what should I do?
 - Someone has stolen my phone, what should I do?
